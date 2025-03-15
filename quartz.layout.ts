@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Twitter: "https://x.com/ReheatVet"
     },
   }),
 }
@@ -34,10 +33,17 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "notes", // title of the explorer component
+      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "open", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+      // omitted but shown later
+      // what order to apply functions in
+      order: ["filter", "map", "sort"],
+    })
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
