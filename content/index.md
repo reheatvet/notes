@@ -28,6 +28,8 @@ If you despite that want to donate out of  the kindness of your heart to support
 or 
 **``0x7e64b0B68e2C353641681a5cb16d4c021f2dBaC6``**
 
+If you do donate, send me a DM on X so that I can say thanks.
+
 Thank you kindly for reading my blog, hope it's useful for you!
 
 /Reheat
