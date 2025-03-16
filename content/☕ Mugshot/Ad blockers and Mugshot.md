@@ -1,5 +1,10 @@
-
-☕ Are you using[@mugshot_vet](https://x.com/mugshot_vet) and a local network ad blocking solution like adguardhome or PI-hole? You might need to exclude https://fpnpmcdn.net from any block rules in order to submit your daily brew like I had to!
+---
+title: 
+draft: false
+tags:
+  - mugshot
+---
+☕ Are you using [@mugshot_vet](https://x.com/mugshot_vet) and an ad blocking solution like **Adguardhome or PI-hole?** You might need to exclude https://fpnpmcdn.net from any block rules in order to submit your daily brew like I had to!
 
 Without this rule applied the submission would hang on a never stopping loading screen when the *barista AI* is analyzing your brew. 
 

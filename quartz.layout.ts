@@ -14,6 +14,7 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 // components for pages that display a single page (e.g. a single note)
+
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -33,12 +34,18 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    //   Component.RecentNotes({ 
+    //     title: "latest note",
+    //     limit: 1,
+    //     showTags: false 
+    //   }
+    // ),
     Component.Explorer({
       title: "notes", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      // omitted but shown later
+      // omitted but shown later 
       // what order to apply functions in
       order: ["filter", "map", "sort"],
     })
@@ -51,7 +58,13 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs({
+    spacerSymbol: "❯", // symbol between crumbs
+    rootName: "Home", // name of first/root element
+    resolveFrontmatterTitle: true, // whether to resolve folder names through frontmatter titles
+    hideOnRoot: true, // whether to hide breadcrumbs on root `index.md` page
+    showCurrentPage: true, // whether to display the current page in the breadcrumbs
+  }), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -64,7 +77,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "notes", // title of the explorer component
+      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+      // omitted but shown later 
+      // what order to apply functions in
+      order: ["filter", "map", "sort"],
+    }),
   ],
   right: [],
 }

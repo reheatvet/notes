@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "notes from the dao",
-    pageTitleSuffix: " | notes from the dao",
+    pageTitleSuffix: " | NFTD",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.CreatedModifiedDate(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
