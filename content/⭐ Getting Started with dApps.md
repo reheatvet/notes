@@ -48,7 +48,7 @@ Submit a photo of your daily coffee or tea (at a cafe or at home!) and get rewar
 
 Mugshot tracks your impact. I've saved 2.8kg of CO2 by submitting 77 mugshots. How about you? 
 
-Support channels: X 
+Support channels: X and Telegram. FreshDesk coming soon
 ## 🥬 Eatgreen
 ✅ **Status: Endorsed and active**
 
