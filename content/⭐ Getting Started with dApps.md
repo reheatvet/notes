@@ -109,7 +109,9 @@ Support channels: Discord
 
 📄 Docs: https://betterbag.gitbook.io/betterbag-docs
 
-Use a reusable bag while shopping and submit a photo of your reusable bag, groceries, receipt (receipt from the same date as submission and marked with the last 4 digits of your wallet address). You can submit 5 times every single week. Each approved submission will reward B3TR tokens in the following week (Tuesdays at the latest)
+Use a reusable bag while shopping and submit a photo of your reusable bag, groceries, receipt (receipt from the same date as submission and marked with the last 4 digits of your wallet address). You can submit 3 times every single week and each submission requires at least 5 items in it! Five items of the same thing is ok (for example 5 bottles of mango juice)
+
+Each approved submission will reward B3TR tokens in the following week **(Tuesdays at the latest)**
 
 Despite manually reviewing every single submission (!) they still manage to approve or deny every submission within 24 hours!
 
