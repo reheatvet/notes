@@ -4,7 +4,7 @@
 Join me as I guide you through ALL 31 (!) dApps of the #VeBetterDAO with the ultimate getting started guide. I'll explain how they work, their current status and share something cool about every single one of them plus support & social channels. 
 
 # Physical Activity & Personal Health
-## 🚶 St3pr
+## 🚶 ST3PR
 ✅ **Status: Endorsed and active**
 
 📄 Docs: https://st3pr.gitbook.io/st3pr
@@ -17,6 +17,9 @@ Their Corgi Gang 2.0 NFTs has some massive utility with each step being worth up
 If you're feeling especially steppy, their rank 1 Corgi Gang NFTs boost your earnings by 1100% - they do carry a large pricetag, however.
 
 Support channels: Discord 
+
+#st3pr
+___
 ## 🚴 Green Commuter
 ✅ **Status: Endorsed and active**
 
@@ -27,6 +30,9 @@ Run, bike or walk and record the journey in Strava and get rewarded! Level up by
 Commuting (one-way trips) rewards the most but exercising still counts! The optimal distance to record is 8km per activity - pay attention to the current demand for your region before you claim each day! 👀
 
 Support channels: Telegram and their website
+
+#greencommuter
+___
 ## 💗 Vyvo
 ✅ **Status: Endorsed and active**
 
@@ -38,6 +44,8 @@ They have also struggled with controversy regarding their allocations not being 
 
 Support channels: Discord, Telegram
 
+#vyvo
+___
 # Food & Drinks
 ## ☕ Mugshot
 ✅ **Status: Endorsed and active**
@@ -49,6 +57,9 @@ Submit a photo of your daily coffee or tea (at a cafe or at home!) and get rewar
 Mugshot tracks your impact. I've saved 2.8kg of CO2 by submitting 77 mugshots. How about you? 
 
 Support channels: X and Telegram. FreshDesk coming soon
+
+#mugshot
+___
 ## 🥬 Eatgreen
 ✅ **Status: Endorsed and active**
 
@@ -60,8 +71,11 @@ Eatgreen, developed by AWorld, is in Support channels of the United Nations' ACT
 
 Support channels: Instagram, X, Facebook, LinkedIn
 
+#eatgreen
+___
+
 ## 🍽️ Vemeal
-⚠️ **Status: In grace period but active** 
+❌ **Status: Endorsement lost**
 
 📄 Docs: N/A
 
@@ -70,8 +84,11 @@ Capture a photo of your meal and reusable cutlery, get rewarded! You can submit 
 Unfortunately suffers from farmers submitting the same meal multiple times with different wallets, draining the rewards. Hopefully a fix for this is in the works. 
 
 Support channels: X
+
+#vemeal
+___
 ## 🥦 Ecomeal
-❌ **Status: In grace period, not yet active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -81,6 +98,8 @@ On top of rewarding your daily meal submissions, they also offer quests and sust
 
 Support channels: Telegram
 
+#ecomeal
+___
 # Shopping
 ## 🛒 Greencart
 ✅ **Status: Endorsed and active**
@@ -93,6 +112,9 @@ Greencart have recently announced an association with Italy's premier retail aut
 
 Support channels: Email, Telegram, X, Instagram
 
+#greencart
+___
+
 ## 🖼️ Worldofv
 ✅ **Status: Endorsed and active**
 
@@ -103,6 +125,9 @@ Buy, sell and trade Non-Fungible Tokens (NFT) in their green marketplace and get
 Each week, a project with top volume and the most votes by Genesis cards owners get their floor swept and any purchases of that project in that week can earn you one of the swept NFTS! 
 
 Support channels: Discord
+
+#Worldofv 
+___
 
 ## 🛍️ Betterbag
 ✅ **Status: Endorsed and active**
@@ -116,8 +141,11 @@ Each approved submission will reward B3TR tokens in the following week **(Tuesda
 Despite manually reviewing every single submission (!) they still manage to approve or deny every submission within 24 hours!
 
 Support channels: Telegram
+
+#betterbag
+___
 ## 🎒 Justote
-⌚ **Status: Endorsed, not yet active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -127,6 +155,8 @@ Did you help test in the testnet? They have promised rewards to those who did �
 
 Support channels: X
 
+#justote
+___
 # Cleaning
 ## 💩 Scoopup
 ✅ **Status: Endorsed and active**
@@ -138,6 +168,9 @@ Do you own a dog? Does it poop? If you have answered yes to both of these questi
 Their innovative KnowYourDog (KYD) system makes sure verified dog owners get the best possible rewards while keeping bad actors away!
 
 Support channels: X, Bluesky, Email
+
+#scoopup
+___
 ## ✨ Cleanify
 ✅ **Status: Endorsed and active**
 
@@ -148,8 +181,11 @@ Pick up litter - small or large - and capture your process. The more you clean a
 Cleanify recently launched their innovative "Review2Earn" pilot program where selected VeFam members get rewarded for every moderation action they complete in Cleanify. Quicker moderation, payments to passionate users and great community interaction. Win-win-win! 🥇
 
 Support channels: Website, X, Instagram, Telegram
+
+#cleanify
+___
 ## ♻️ Verecycle
-✅ **Status: Endorsed and active**
+⚠️ **Status: In grace period but active**
 
 📄 Docs: https://verecycle.gitbook.io/verecycle-docs
 
@@ -158,6 +194,9 @@ Deposit your plastic bottles or cans (the amount does not matter) in valid depos
 Just like BetterBag, VeRecycle manually reviews every single submission and reward approved submissions the following week (Tuesdays at the latest). Impressive!
 
 Support channels: Telegram
+
+#verecycle 
+___
 # Pool2Earn & Finance
 ## 🔂 Betterswap
 ✅ **Status: Endorsed and active**
@@ -169,7 +208,10 @@ Created by a collective of veteran VeFam members, Betterswap is the leading swap
 Did you know? 100% of their weekly DAO allocation is distributed to liquidity providers in their VET/B3TR pair!
 
 Support channels: Discord
-## 🐢Turtlelab
+
+#betterswap
+___
+## 🐢 TurtleLabs
 ✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
@@ -179,6 +221,9 @@ Swap tokens and join the liquidity pool with TurtleLabs. Liquidity providers in 
 Every other week liquidity providers get airdropped sweet NFT turtle goodness! 
 
 Support channels: Discord and Telegram
+
+#turtlelabs 
+___
 ## 🥩 Vedelegate
 ✅ **Status: Endorsed and active**
 
@@ -191,6 +236,9 @@ They charge a 10% fee but reward you with a bonus every week, offsetting (even i
 You can also deposit funds in their VeB3tr pool and take advantage of their Venus GM NFT but your vote will count for A LOT less because you're voting from their wallet. Remember to also vote manually or with the normal VeDelegate staking wallet to Support channels your favorite dApp!
 
 Support channels: Discord
+
+#vedelegate
+___
 ## 🔂 Veswap
 ✅ **Status: Endorsed and active**
 
@@ -201,7 +249,10 @@ Veswap is another decentralized exchange (DEX) on Vechain where users can swap t
 Have you seen? They've recently added a new pool together with WorldofV - the WOV/VET pool. Liquidity providers here earn points just like the other pools! 
 
 Support channels: Telegram
-## 💲Vestation
+
+#veswap
+___
+## 💲 Vestation
 ✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
@@ -211,8 +262,11 @@ By depositing B3TR to Vestation you will participate in their voting pool and be
 Just like VeB3tr, depositing your tokens to Vestation's pool will significantly reduce your voting power because all votes will come from one wallet so remember to vote normally too. 📬
 
 Support channels: X, Telegram
+
+#vestation
+___
 ## 💸 Velottery
-🌻 **Status: Looking for endorsements, not yet active**
+⌚ **Status: Endorsed, not yet active**
 
 📄 Docs: N/A
 
@@ -221,6 +275,9 @@ If it gets endorsements, Velottery is aiming to be the greenest lottery in block
 Buy a ticket and participate in the weekly lottery draw at Sundays, 7PM CET - three winners every week - the jackpot will be huge! 💰
 
 Support channels: None yet
+
+#velottery 
+___
 # Learn and listen
 ## 📜 Green Ambassador Challenge
 ✅ **Status: Endorsed and active**
@@ -232,6 +289,9 @@ Learn and earn! By completing activities and challenges related to all things en
 By completing challenges with a perfect score, completing them over a few weeks and by holding some VET + B3TR in your wallet you can multiply your earnings with up to 16x!
 
 Support channels: Website, X
+
+#greenambassadorchallenge
+___
 ## 📚 NFBC
 ✅ **Status: Endorsed and active**
 
@@ -243,6 +303,8 @@ Want to listen to books together with the #Vefam? Join @ROWS__ and @BUBBLES X sp
 
 Support channels: Discord
 
+#nfbc
+___
 # Energy & resources
 ## ⚡ Metermate
 ✅ **Status: Endorsed and active**
@@ -254,6 +316,9 @@ Upload your meter ID, proof of your last electricity bill and a current picture 
 This weekend only, March 14th-16th, all rewards are multiplied by 3x to celebrate their successful first week in the DAO! Plus, streak awards (submit every day) are coming soon!
 
 Support channels: X, Telegram
+
+#metermate
+___
 ## ☀️ Solarwise
 ✅ **Status: Endorsed and active**
 
@@ -267,8 +332,11 @@ Psst.. Farm 3 is in the works. The last one sold out in minutes. Make sure you s
 
 Support channels: Discord
 
-## 🌊 H2optimize
-⚠️ **Status: In grace period but active**
+#solarwise 
+___
+
+## 🌊 H2Optimize
+❌ **Status: Endorsement lost****
 
 📄 Docs: N/A
 
@@ -277,6 +345,9 @@ Capture a photo of your dishwasher loaded with dirty dishes, get rewarded! You c
 Just like VeMeal, unfortunately suffers from farmers submitting the same dishwasher photo multiple times with different wallets (or even AI-generated images of dishwashers), draining the rewards. Hopefully a fix for this is in the works. 
 
 Support channels: None ⚠️
+
+#h2optimize 
+___
 ## ♾️ Carbonlarity
 ✅ **Status: Endorsed and active**
 
@@ -287,8 +358,11 @@ Carbonlarity combine the Internet of Things with blockchain. By purchasing their
 Feeling quizzy? Their quizzes and daily checkins also reward B3TR tokens! 🤔
 
 Support channels: X, Telegram
+
+#carbonlarity
+___
 ## 🛢️ Oily
-⚠️ **Status: In grace period but active**
+❌ **Status: Endorsement lost**
 
 📄 Docs: N/A
 
@@ -298,10 +372,36 @@ While they have been active in the DAO a long time they struggled with some cont
 
 Support channels: X, LinkedIn, Telegram
 
+#oily
+___
+## 🚰 BetterMode
+🌻 **Status: Looking for endorsements, not yet active**
+
+📄 Docs: https://bettermode.gitbook.io/bettermode-docs
+
+Run your appliances smarter and get rewarded with $B3TR! Every time you use your dishwasher or washing machine in eco mode, you earn rewards!
+
+From the team behind BetterBag and VeRecycle with the same reward process.
+
+Support channels: Telegram
+
+#bettermode 
+___
+## 🆙 PowerUp
+🌻 **Status: Looking for endorsements, not yet active**
+
+📄 Docs: N/A
+
+PowerUp's goal is to incentivize users to reduce energy, water and gas usage by competing with other users on a leaderboard. With no social account or announcement from the team found it's hard to say what their plans are beyond that. 
+
+Support channels: None yet
+
+#powerup 
+___
 # Transportation
 
 ## 🚗 Letstop
-✅ **Status: Endorsed and active**
+⚠️ **Status: In grace period but active**
 
 📄 Docs: https://www.letstop.io/faq
 
@@ -310,6 +410,9 @@ Drive your car safely without touching your phone and earn STOP Credits and B3TR
 Want to increase your earnings in the app? In-app vehicle upgrades purchased with credits or recruiting friends increase the credits you earn.
 
 Support channels: Website, X, Telegram
+
+#letstop 
+___
 ## ⚡🚙 Evearn
 ✅ **Status: Endorsed and active**
 
@@ -320,6 +423,9 @@ Do you own a Tesla? If you do, connect it to EVearn and get rewarded with B3TR t
 While Tesla is the only electric vehicle Support channelsed right now, they have plans to add Support channels for other manufacturers. Stay tuned to their socials! 
 
 Support channels: None ⚠️
+
+#evearn
+___
 ## 🚌 Ecotransit
 🌻 **Status: Looking for endorsements, not yet active**
 
@@ -330,3 +436,5 @@ Too far to commute to work with Green Commuter but you want to reduce your Carbo
 They will Support channels OV card integration, QR & e-ticket scans, or NFC tap-in via smartphones. Rewards are based on distance traveled, consistency, and off-peak travel.
 
 Support channels: None yet
+
+#ecotransit
