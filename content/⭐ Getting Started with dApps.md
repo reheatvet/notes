@@ -1,7 +1,7 @@
 ![[banner.png]]
 #### View the original thread at my twitter profile: https://x.com/ReheatVet/status/1900262064926466053
 
-Join me as I guide you through ALL 31 (!) dApps of the #VeBetterDAO with the ultimate getting started guide. I'll explain how they work, their current status and share something cool about every single one of them plus support & social channels. 
+Join me as I guide you through ALL dApps of the #VeBetterDAO with the ultimate getting started guide. I'll explain how they work, their current status and share something cool about every single one of them plus support & social channels. 
 
 # Physical Activity & Personal Health
 ## 🚶 ST3PR
