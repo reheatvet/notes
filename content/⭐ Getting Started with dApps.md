@@ -134,11 +134,11 @@ ___
 
 📄 Docs: https://betterbag.gitbook.io/betterbag-docs
 
-Use a reusable bag while shopping and submit a photo of your reusable bag, groceries, receipt (receipt from the same date as submission and marked with the last 4 digits of your wallet address). You can submit 3 times every single week and each submission requires at least 5 items in it! Five items of the same thing is ok (for example 5 bottles of mango juice)
+Use a reusable bag while shopping and submit a photo of your reusable bag, groceries, receipt (receipt from the same date as submission). You can submit 3 times every single week and each submission requires at least 5 items in it! Five items of the same thing is ok (for example 5 bottles of mango juice)
+
+> [!warning]  Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT to submit
 
 Each approved submission will reward B3TR tokens in the following week **(Tuesdays at the latest)**
-
-Despite manually reviewing every single submission (!) they still manage to approve or deny every submission within 24 hours!
 
 Support channels: Telegram
 
@@ -165,7 +165,7 @@ ___
 
 Do you own a dog? Does it poop? If you have answered yes to both of these questions, then you need ScoopUp! Snap a pic of your pupper's poopage, clean it up and get rewarded! 
 
-Their innovative KnowYourDog (KYD) system makes sure verified dog owners get the best possible rewards while keeping bad actors away!
+Their innovative KnowYourDog (KYD) system makes sure verified dog owners get the best possible rewards while keeping bad actors away! Reach out to them to get an invite code to KYD!
 
 Support channels: X, Bluesky, Email
 
@@ -185,11 +185,13 @@ Support channels: Website, X, Instagram, Telegram
 #cleanify
 ___
 ## ♻️ Verecycle
-⚠️ **Status: In grace period but active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: https://verecycle.gitbook.io/verecycle-docs
 
 Deposit your plastic bottles or cans (the amount does not matter) in valid deposit machines, snap a picture (a video is not needed!) of the receipt and the deposit machine in the background. Submit it to their dApp. The receipt and submission need to be from the same date! One submission per week.
+
+> [!warning]  Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT to submit
 
 Just like BetterBag, VeRecycle manually reviews every single submission and reward approved submissions the following week (Tuesdays at the latest). Impressive!
 
@@ -240,7 +242,7 @@ Support channels: Discord
 #vedelegate
 ___
 ## 🔂 Veswap
-✅ **Status: Endorsed and active**
+👻 **Status: Blacklisted**
 
 📄 Docs: N/A
 
@@ -266,7 +268,7 @@ Support channels: X, Telegram
 #vestation
 ___
 ## 💸 Velottery
-⌚ **Status: Endorsed, not yet active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -336,7 +338,7 @@ Support channels: Discord
 ___
 
 ## 🌊 H2Optimize
-❌ **Status: Endorsement lost****
+❌ **Status: Endorsement lost**
 
 📄 Docs: N/A
 
@@ -381,6 +383,8 @@ ___
 
 Run your appliances smarter and get rewarded with $B3TR! Every time you use your dishwasher or washing machine in eco mode, you earn rewards!
 
+> [!warning]  Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT to submit
+
 From the team behind BetterBag and VeRecycle with the same reward process.
 
 Support channels: Telegram
@@ -398,6 +402,15 @@ Support channels: None yet
 
 #powerup 
 ___
+
+## ☁️ Nubila
+⌚ **Status: Endorsed, not yet active**
+
+📄 Docs: N/A
+
+Nubila sells weather stations and rewards users for collecting and sharing weather information on the blockchain. While they are new to the #VeBetterDAO they are well established as a company with over 100'000 followers on X. No real announcement has yet been made on how they will integrate with VeChain or the DAO.
+
+Support channels: Discord
 # Transportation
 
 ## 🚗 Letstop
