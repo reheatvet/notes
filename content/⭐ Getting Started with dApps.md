@@ -69,7 +69,7 @@ Cook, serve and capture a photo of your food and get rewarded for using ingredie
 
 Eatgreen, developed by AWorld, is in Support channels of the United Nations' ACTNOW campaign and adopted by the European Commision to promote the Climate Pact. Over 25 million climate actions taken around the world!
 
-Support channels: Instagram, X, Facebook, LinkedIn
+Support channels: Telegram
 
 #eatgreen
 ___
@@ -138,9 +138,11 @@ Use a reusable bag while shopping and submit a photo of your reusable bag, groce
 
 > [!warning]  Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT to submit
 
+> [!Important] From the VeDuck Collective
+
 Each approved submission will reward B3TR tokens in the following week **(Tuesdays at the latest)**
 
-Support channels: Telegram
+Support channels: Discord
 
 #betterbag
 ___
@@ -193,9 +195,11 @@ Deposit your plastic bottles or cans (the amount does not matter) in valid depos
 
 > [!warning]  Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT to submit
 
+> [!Important] From the VeDuck Collective
+
 Just like BetterBag, VeRecycle manually reviews every single submission and reward approved submissions the following week (Tuesdays at the latest). Impressive!
 
-Support channels: Telegram
+Support channels: Discord
 
 #verecycle 
 ___
@@ -377,7 +381,7 @@ Support channels: X, LinkedIn, Telegram
 #oily
 ___
 ## 🚰 BetterMode
-🌻 **Status: Looking for endorsements, not yet active**
+⌚ **Status: Endorsed, not yet active**
 
 📄 Docs: https://bettermode.gitbook.io/bettermode-docs
 
@@ -385,7 +389,7 @@ Run your appliances smarter and get rewarded with $B3TR! Every time you use your
 
 > [!warning]  Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT to submit
 
-From the team behind BetterBag and VeRecycle with the same reward process.
+> [!Important] From the VeDuck Collective
 
 Support channels: Telegram
 
@@ -414,7 +418,7 @@ Support channels: Discord
 # Transportation
 
 ## 🚗 Letstop
-⚠️ **Status: In grace period but active**
+❌ **Status: Endorsement lost**
 
 📄 Docs: https://www.letstop.io/faq
 
