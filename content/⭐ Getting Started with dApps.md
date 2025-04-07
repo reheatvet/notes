@@ -61,7 +61,7 @@ Support channels: X and Telegram. FreshDesk coming soon
 #mugshot
 ___
 ## 🥬 Eatgreen
-✅ **Status: Endorsed and active**
+⚠️ **Status: In Grace Period**
 
 📄 Docs: N/A
 
@@ -381,7 +381,7 @@ Support channels: X, LinkedIn, Telegram
 #oily
 ___
 ## 🚰 BetterMode
-⌚ **Status: Endorsed, not yet active**
+⌚ **Status: Endorsed, not yet active, in grace period**
 
 📄 Docs: https://bettermode.gitbook.io/bettermode-docs
 
