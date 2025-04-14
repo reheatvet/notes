@@ -100,6 +100,19 @@ Support channels: Telegram
 
 #ecomeal
 ___
+## 💧 Bubbles
+⌚ **Status: Endorsed, not yet active, in grace period**
+
+📄 Docs: N/A
+
+Bubbles reward users for using refillable bottles, preferably with a faucet in clear view. Refill, scan, earn.
+
+Uses a passport NFT system as security and partners with multiple community NFT projects for reward multipliers.
+
+Support channels: Discord
+
+#bubbles
+___
 # Shopping
 ## 🛒 Greencart
 ✅ **Status: Endorsed and active**
@@ -158,6 +171,21 @@ Did you help test in the testnet? They have promised rewards to those who did �
 Support channels: X
 
 #justote
+___
+## 🍃 EcoBag
+🌻 **Status: Looking for endorsements, not yet active**
+
+📄 Docs: N/A
+
+Similar to BetterBag and Justote, EcoBag rewards users for using reusable bags when shopping. While you can use any reusable bag, they sell their own reusable bags integrated with an NFC chip for the highest possible rewards.
+
+The bags are purchased by buying one of their Eco Badges at https://worldofv.art/collection/6abb5003-54e0-4257-a84d-ee60c3ef24a0?tab=onsale&page=1&query=&onlyStakeable=0 and by reaching out to them they will ship a bag to you. See their discord for more information.
+
+For users without their own bag, they also offer reward multipliers for plenty of community NFT projects *(clay world, turtle labs, MVA, WoV genesis, etc.)*
+
+Support channels: Discord
+
+#ecobag
 ___
 # Cleaning
 ## 💩 Scoopup
