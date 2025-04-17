@@ -274,7 +274,7 @@ Support channels: Discord
 #vedelegate
 ___
 ## 🔂 Veswap
-👻 **Status: Blacklisted**
+🏴 **Blacklisted and removed from the DAO** (see [this proposal](https://governance.vebetterdao.org/proposals/16952850511191752820402247063670202238339807172273153527040168494523752166758))
 
 📄 Docs: N/A
 
@@ -287,7 +287,7 @@ Support channels: Telegram
 #veswap
 ___
 ## 💲 Vestation
-✅ **Status: Endorsed and active**
+🏴 **Blacklisted and removed from the DAO** (see [this proposal](https://governance.vebetterdao.org/proposals/16952850511191752820402247063670202238339807172273153527040168494523752166758))
 
 📄 Docs: N/A
 
