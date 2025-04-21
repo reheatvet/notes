@@ -62,7 +62,7 @@ Mugshot tracks your impact. I've saved 2.8kg of CO2 by submitting 77 mugshots. H
 #mugshot
 ___
 ## 🥬 Eatgreen
-⚠️ **Status: In Grace Period**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -102,7 +102,7 @@ On top of rewarding your daily meal submissions, they also offer quests and sust
 #ecomeal
 ___
 ## 💧 Bubbles
-⌚ **Status: Endorsed, not yet active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -174,7 +174,7 @@ Did you help test in the testnet? They have promised rewards to those who did �
 #justote
 ___
 ## 🍃 EcoBag
-🌻 **Status: Looking for endorsements, not yet active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -301,7 +301,7 @@ ___
 #vestation
 ___
 ## 💸 Velottery
-✅ **Status: Endorsed and active**
+⚠️ **Status: In Grace Period**
 
 📄 Docs: N/A
 
@@ -384,7 +384,7 @@ Just like VeMeal, unfortunately suffers from farmers submitting the same dishwas
 #h2optimize 
 ___
 ## ♾️ Carbonlarity
-✅ **Status: Endorsed and active**
+⚠️ **Status: In Grace Period**
 
 📄 Docs: N/A
 
@@ -410,7 +410,7 @@ While they have been active in the DAO a long time they struggled with some cont
 #oily
 ___
 ## 🚰 BetterMode
-⌚ **Status: Endorsed, not yet active, in grace period**
+⚠️ **Status: In Grace Period**
 
 📄 Docs: https://bettermode.gitbook.io/bettermode-docs
 
@@ -437,13 +437,24 @@ PowerUp's goal is to incentivize users to reduce energy, water and gas usage by 
 ___
 
 ## ☁️ Nubila
-⌚ **Status: Endorsed, not yet active**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
 Nubila sells weather stations and rewards users for collecting and sharing weather information on the blockchain. While they are new to the #VeBetterDAO they are well established as a company with over 100'000 followers on X. No real announcement has yet been made on how they will integrate with VeChain or the DAO.
 
 **Support channels: Discord**
+___
+## 👕 HangnDry
+🌻 **Status: Looking for endorsements, not yet active**
+
+📄 Docs: N/A
+
+HangnDry incentivizes users to save on electricity, carbon emissions and extending the life of users' clothes by hanging to try instead of using dryers or other appliances. 
+
+Hang your washed clothes, snap a picture, get rewarded. 
+
+**Support channels: X, Telegram, Discord (soon)**
 # Transportation
 
 ## 🚗 Letstop
@@ -473,7 +484,7 @@ While Tesla is the only electric vehicle Support channelsed right now, they have
 #evearn
 ___
 ## 🚌 Ecotransit
-🌻 **Status: Looking for endorsements, not yet active**
+👻 **Status: Removed from the DAO**
 
 📄 Docs: https://ecotransit.tech/
 
