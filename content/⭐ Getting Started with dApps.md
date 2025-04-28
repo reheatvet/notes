@@ -62,7 +62,7 @@ Mugshot tracks your impact. I've saved 2.8kg of CO2 by submitting 77 mugshots. H
 #mugshot
 ___
 ## 🥬 Eatgreen
-✅ **Status: Endorsed and active**
+⚠️ **Status: In Grace Period**
 
 📄 Docs: N/A
 
@@ -104,7 +104,7 @@ ___
 ## 💧 Bubbles
 ✅ **Status: Endorsed and active**
 
-📄 Docs: N/A
+📄 Docs: N/A 
 
 Bubbles reward users for using refillable bottles, preferably with a faucet in clear view. Refill, scan, earn.
 
@@ -301,7 +301,7 @@ ___
 #vestation
 ___
 ## 💸 Velottery
-⚠️ **Status: In Grace Period**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -384,7 +384,7 @@ Just like VeMeal, unfortunately suffers from farmers submitting the same dishwas
 #h2optimize 
 ___
 ## ♾️ Carbonlarity
-⚠️ **Status: In Grace Period**
+✅ **Status: Endorsed and active**
 
 📄 Docs: N/A
 
@@ -448,7 +448,7 @@ ___
 ## 👕 HangnDry
 🌻 **Status: Looking for endorsements, not yet active**
 
-📄 Docs: N/A
+📄 Docs: https://hangndry.org/faq
 
 HangnDry incentivizes users to save on electricity, carbon emissions and extending the life of users' clothes by hanging to try instead of using dryers or other appliances. 
 
@@ -484,7 +484,7 @@ While Tesla is the only electric vehicle Support channelsed right now, they have
 #evearn
 ___
 ## 🚌 Ecotransit
-👻 **Status: Removed from the DAO**
+👻 **Status: Delisted from the DAO**
 
 📄 Docs: https://ecotransit.tech/
 
