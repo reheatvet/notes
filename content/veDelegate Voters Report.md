@@ -16,7 +16,7 @@ Let’s get into the data 👇
 - **57.3% of VOT3s** (19.78M) changed votes **after** March 7th.  
 - **32.6% of VOT3s** (11.26M) changed votes **before** March 7th.  
     - *Note: ~8M of these VOT3s are held by 50 wallets*
-- **10.1% of VOT3s** (3.5M) had **no clear vote change date**.  🔗
+- **10.1% of VOT3s** (3.5M) had **no clear vote change date**. 
 
 Here's a graph visualizing the **voter change date (VOT3 count excluded)**
 ![[vd_r.png]]
