@@ -16,7 +16,7 @@ Let’s get into the data 👇
 - **57.3% of VOT3s** (19.78M) changed votes **after** March 7th.  
 - **32.6% of VOT3s** (11.26M) changed votes **before** March 7th.  
     - *Note: ~8M of these VOT3s are held by 50 wallets*
-- **10.1% of VOT3s** (3.5M) had **no clear vote change date**.  
+- **10.1% of VOT3s** (3.5M) had **no clear vote change date**.  🔗
 
 Here's a graph visualizing the **voter change date (VOT3 count excluded)**
 ![[vd_r.png]]
@@ -110,7 +110,7 @@ While analyzing veDelegate voter data, I gathered some fun stats among dApp vote
 🔄 **Bubbles** – Mar 25, 2025  
 🔄 **VeLottery** – Mar 25, 2025  
 
-**Loyal Voters (Rarely Change)**  
+**Loyal Voters (Rarely Change)** 
 ⏳ **Mugshot** – Mar 2, 2025  
 ⏳ **Green Ambassador Challenge** – Mar 6, 2025  
 
@@ -136,8 +136,6 @@ While analyzing veDelegate voter data, I gathered some fun stats among dApp vote
 🎯 **Mugshot** – 9.0  
 🎯 **GreenCart** – 12.3  
 
-Here’s your revamped **Final Rankings** section with clearer structure, engaging visuals, and punchier messaging:  
-
 ---  
 
 ### 🏆 **Final Rankings**  
@@ -158,8 +156,6 @@ A **combined score** across all metrics reveals the top-performing dApps and tho
 #### 💬 **Key Takeaways**  
 ✅ **Top Rankers:** Your voters are **highly engaged**—earning rewards daily, tweaking votes, and stacking Better Actions!  
 ✨ **Growth-Minded dApps:** Your supporters **love your platform** but may engage less broadly. Focus on **ecosystem cross-promotion**!  
-
----  
 
 📊 **Full stats** are available in the **dApps-Stats** sheet → https://docs.google.com/spreadsheets/d/1ZBJEw1T2STyIPXeF45XQTTiUKayEWbgfs7sIsyS4bUc/edit?gid=375853411#gid=375853411
 
