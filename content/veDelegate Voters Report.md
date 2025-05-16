@@ -71,8 +71,6 @@ With recent changes to veDelegate’s allocation status, over 4,500 wallets risk
 These dApps may see notable changes in votes unless users re-engage through broader ecosystem actions.
 
 ---
-
-
 # 🎉 Fun Voter Stats on dApps
 While analyzing veDelegate voter data, I gathered some fun stats among dApp voters. So I ranked them!
 
@@ -187,4 +185,5 @@ The data also highlights stark contrasts between dApps—some with highly active
 - What role should automation play in voting—does it empower users or dilute intentional participation?
 - How might the removal of veDelegate allocations reshape the balance of power among dApps?
 - Let’s keep the conversation going. What trends are you seeing in your own data? What surprised you most from this analysis?
+
 Tag me on X (https://x.com/ReheatVet), bring up the questions in a space or post about it on a community Discord (I recommend the **VeBetter DAO Community HUB**: https://discord.gg/r8uGrHBKKb). I would love to hear your questions!
