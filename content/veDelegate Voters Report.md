@@ -1,5 +1,5 @@
 ![[vd.png]]
-#### 🔍 How Often Do Users Change Their Vote Preference with @veDelegate?
+#### 🔍 How often do users change their tote preference with @veDelegate?
 
 Ever wondered how dynamic the veDelegate voter base really is? I crunched the numbers from 7,863 wallets in **Round 46** to uncover just how often users shift their vote preferences. From shadow voters quietly influencing outcomes to a looming shake-up from veDelegate’s allocation changes, this report dives deep into the evolving behavior of one of the ecosystem’s most influential voting services.
 
@@ -9,7 +9,7 @@ Let’s get into the data 👇
 
 --- 
 
-# 🗳️ **Vote Change Trends**  
+# 🗳️ **Vote change trends**  
 *Note: the ~2000 LETSTOP wallets voting equally amongst dApps are excluded. The VeB3TR pool is also excluded from the selection.*
 - **5,834 wallets** analyzed (~34.55M VOT3s).  
 - **Average vote change date**: March 7, 2025.  
@@ -21,7 +21,7 @@ Let’s get into the data 👇
 Here's a graph visualizing the **voter change date (VOT3 count excluded)**
 ![[vd_r.png]]
 
-#### 💬 **Key Takeaways**  
+#### 💬 **Key takeaways**  
 Most voting power (~57%) has been reshuffled in the last ~2 months, showing active voter realignment. The majority of the voting power of those who have not updated their voting preference after March 7th is held by 50 different wallets that might not have a reason to change. 
 
 veDelegate accounts for ~40% of all voting weight in any given round, meaning at worst 10-20% of all votes each round come from 'set-and-forget' voters.
@@ -34,7 +34,7 @@ veDelegate accounts for ~40% of all voting weight in any given round, meaning at
   - **1,131 wallets** (300K VOT3s) mostly voted for **Mugshot, GreenCart, & Cleanify**—likely in-app automated voting setups through veDelegate.  
   - Only **23 wallets** (~negligible VOT3s) voted outside these dApps.  
 
-#### 💬 **Key Takeaways**  
+#### 💬 **Key takeaways**  
 A small but notable "shadow vote" (~300K VOT3s over 1556 wallets) skews toward Mugshot, GreenCart, & Cleanify, possibly from automated staking setups.  
 
 --- 
@@ -55,12 +55,12 @@ This can affect the following:
     - ST3PR (109 wallets)
     - All other dApps have 77-23 wallets voting for them
 
-#### 💬 **Key Takeaways**  
+#### 💬 **Key takeaways**  
 4,548 wallets (holding 9.45M VOT3s) risk losing voting rights within ~12 weeks unless they engage in Better Actions on their main wallet. While LETSTOP wallets are the most numerous, they hold minimal voting power. 
 
 The majority of at-risk VOT3s are concentrated in wallets primarily voting for **Mugshot, GreenCart, & Cleanify** 
 
-# ✅ Summarizing Thoughts on Vote Changes
+# ✅ Summarizing vote change trends
 The data reveals a dynamic and evolving voter landscape within veDelegate. While a majority of users actively adjust their votes, a meaningful portion remains passive, either unknowingly (through in-app staking for example), because they are no longer active or are pleased with their choices. 
 
 With recent changes to veDelegate’s allocation status, over 4,500 wallets risk losing voting rights due to inactivity outside veDelegate. The dApps most affected by this potential drop in voting power are:
@@ -71,7 +71,7 @@ With recent changes to veDelegate’s allocation status, over 4,500 wallets risk
 These dApps may see notable changes in votes unless users re-engage through broader ecosystem actions.
 
 ---
-# 🎉 Fun Voter Stats on dApps
+# 🎉 Fun voter stats on dApps
 While analyzing veDelegate voter data, I gathered some fun stats among dApp voters. So I ranked them!
 
 #### 📊 **How Rankings Work**  
@@ -79,7 +79,7 @@ While analyzing veDelegate voter data, I gathered some fun stats among dApp vote
 - Only **actions with sustainability proof** are counted in "Better Actions."  
 - Rankings are based on the **average scores/dates** of wallets that voted for each dApp in Round 46.   
 
-##  **dApp Voter Rankings**  
+####  **dApp Voter Rankings**  
 
 #### 🏃 **Better Actions per User (Avg.)**  
 **Most Active Voters**  
@@ -151,7 +151,7 @@ A **combined score** across all metrics reveals the top-performing dApps and tho
 
 ---  
 
-#### 💬 **Key Takeaways**  
+#### 💬 **Key takeaways**  
 ✅ **Top Rankers:** Your voters are **highly engaged**—earning rewards daily, tweaking votes, and stacking Better Actions!  
 ✨ **Growth-Minded dApps:** Your supporters **love your platform** but may engage less broadly. Focus on **ecosystem cross-promotion**!  
 
@@ -172,14 +172,14 @@ https://docs.google.com/spreadsheets/d/1ZBJEw1T2STyIPXeF45XQTTiUKayEWbgfs7sIsyS4
 4. Finally, I appended the owner wallets to the data and its better actions, latest reward and the dApps it has gotten rewards from (sustainability proofs only)
 5. From there it's all Google Sheets analytics.
 
-## 🔍 Closing Thoughts
+## 🔍 Closing thoughts
 This deep dive into veDelegate voter behavior paints a vivid picture of a community in motion. The majority of voting power is actively shifting, with over half of all VOT3s holders changing vote preference in just the last two months. This suggests a highly engaged user base from veDelegate.
 
 However, the presence of “shadow voters” and the looming impact of veDelegate’s loss of allocations raise important questions about the future of voter participation. With over 4,500 wallets at risk of losing voting rights due to inactivity outside veDelegate, we may soon see a significant redistribution of influence across the ecosystem.
 
 The data also highlights stark contrasts between dApps—some with highly active, high-weight voters, and others with loyal but less engaged communities. These differences could shape the next few rounds in unexpected ways.
 
-## 🧠 Open Questions for Discussion
+## 🧠 Open questions for discussion
 - How can dApps encourage more consistent engagement beyond veDelegate to protect their voter base?
 - Should the ecosystem introduce nudges or alerts for wallets at risk of losing voting rights?
 - What role should automation play in voting—does it empower users or dilute intentional participation?
