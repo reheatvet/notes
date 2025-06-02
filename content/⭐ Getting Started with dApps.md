@@ -55,7 +55,7 @@ Restify is a wellness app that rewards you with B3TR for staying off your phone.
 
 Using other apps than Restify will abort your session.
 
-They're launching on both Android and iOS but starting with Android. 
+They're launching on both Android and iOS but starting with Android.
 
 **Support channels: Telegram**
 
@@ -84,6 +84,8 @@ Cook, serve and capture a photo of your food and get rewarded for using ingredie
 
 Eatgreen, developed by AWorld, is in support of the United Nations' ACTNOW campaign and adopted by the European Commision to promote the Climate Pact. Over 25 million climate actions taken around the world!
 
+No longer endorsed.
+
 **Support channels: Telegram**
 
 #eatgreen
@@ -96,7 +98,7 @@ ___
 
 Capture a photo of your meal and reusable cutlery, get rewarded! You can submit 10 times every week for their AI model to process and analyze your meal. 
 
-Unfortunately suffers from farmers submitting the same meal multiple times with different wallets, draining the rewards. Hopefully a fix for this is in the works. 
+Unfortunately suffers from farmers submitting the same meal multiple times with different wallets, draining the rewards. No longer endorsed.
 
 **Support channels: X**
 
@@ -120,7 +122,7 @@ ___
 
 📄 Docs: N/A 
 
-Bubbles reward users for using refillable bottles, preferably with a faucet in clear view. Refill, scan, earn.
+Bubbles reward users for using refillable bottles with a faucet in clear view. **Refill, scan, earn.**
 
 Uses a passport NFT[^1]  system as security and partners with multiple community NFT projects for reward multipliers.
 
@@ -152,6 +154,8 @@ Buy, sell and trade Non-Fungible Tokens (NFT[^1] ) in their green marketplace an
 
 Each week, a project with top volume and the most votes by Genesis cards owners get their floor swept and any purchases of that project in that week can earn you one of the swept NFTS! 
 
+In addition, users can mint sustainability proofs and be in the raffle for 10 B3TR weekly!
+
 **Support channels: Discord**
 
 #Worldofv 
@@ -179,9 +183,9 @@ ___
 
 📄 Docs: N/A
 
-One of the newest dApps to join the DAO is Justote. It's simple and quick - go shopping with a reusable bag, upload a picture of your receipt - make sure it doesn't contain a purchase of a single-use bag - and you'll be rewarded. 
+It's simple and quick - go shopping with a reusable bag, upload a picture of your receipt - make sure it doesn't contain a purchase of a single-use bag - and you'll be rewarded - with JusTote.
 
-Did you help test in the testnet? They have promised rewards to those who did 🎉
+Something not right with their AI analysis? Request a manual review.
 
 **Support channels: X**
 
@@ -232,7 +236,7 @@ ___
 
 Do you own a dog? Does it poop? If you have answered yes to both of these questions, then you need ScoopUp! Snap a pic of your pupper's poopage, clean it up and get rewarded! 
 
-Their innovative KnowYourDog (KYD) system makes sure verified dog owners get the best possible rewards while keeping bad actors away! Reach out to them to get an invite code to KYD!
+Their innovative Register your Dog system makes sure verified dog owners get the best possible rewards while keeping bad actors away! Reach out to them to get an invite code to register your dog today!
 
 **Support channels: X, Bluesky, Email**
 
@@ -415,7 +419,7 @@ ___
 
 Capture a photo of your dishwasher loaded with dirty dishes, get rewarded! You can submit 4 times every week for their AI model to process and analyze your dishes. 
 
-Just like VeMeal, unfortunately suffers from farmers submitting the same dishwasher photo multiple times with different wallets (or even AI-generated images of dishwashers), draining the rewards. Hopefully a fix for this is in the works. 
+Just like VeMeal, unfortunately suffers from farmers submitting the same dishwasher photo multiple times with different wallets (or even AI-generated images of dishwashers), draining the rewards. No longer endorsed.
 
 **Support channels: None ⚠️**
 
@@ -469,9 +473,9 @@ ___
 
 📄 Docs: N/A
 
-PowerUp's goal is to incentivize users to reduce energy, water and gas usage by competing with other users on a leaderboard. With no social account or announcement from the team found it's hard to say what their plans are beyond that. 
+PowerUp's goal is to incentivize users to reduce energy, water and gas usage by competing with other users on a leaderboard. 
 
-**Support channels: None yet**
+**Support channels: X?**
 
 #powerup 
 ___
@@ -481,9 +485,11 @@ ___
 
 📄 Docs: N/A
 
-Nubila sells weather stations and rewards users for collecting and sharing weather information on the blockchain. While they are new to the #VeBetterDAO they are well established as a company with over 100'000 followers on X. No real announcement has yet been made on how they will integrate with VeChain or the DAO.
+Nubila sells weather stations and rewards users for collecting and sharing weather information on the blockchain. While they are new to the #VeBetterDAO they are well established as a company with over 100'000 followers on X. 
 
-**Support channels: Discord**
+Users can purchase their Marco device or a Node and earn B3TR weekly.
+
+**Support channels: X & Discord**
 ___
 ## 👕 HangnDry
 🏛️ **VeBetterDAO page:** https://governance.vebetterdao.org/apps/0x66f9099dbd3a311bcdb1a0d97ab1e4c9867be2b30c126ad06658808ac9974fec
@@ -505,6 +511,8 @@ Hang your washed clothes, snap a picture, get rewarded.
 Drive your car safely without touching your phone and earn STOP Credits and B3TR with every drive. Unfortunately it requires their own wallet and application, it is not integrated with Veworld currently. 
 
 Want to increase your earnings in the app? In-app vehicle upgrades purchased with credits or recruiting friends increase the credits you earn.
+
+No longer endorsed.
 
 **Support channels: Website, X, Telegram**
 
