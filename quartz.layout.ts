@@ -24,7 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -34,12 +33,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    //   Component.RecentNotes({ 
-    //     title: "latest note",
-    //     limit: 1,
-    //     showTags: false 
-    //   }
-    // ),
+    Component.RecentNotes({
+      title: "latest note",
+      limit: 1,
+      showTags: false
+    }
+    ),
+    Component.MobileOnly(Component.Spacer()),
     Component.Explorer({
       title: "notes", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
@@ -47,6 +47,9 @@ export const defaultContentPageLayout: PageLayout = {
       useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
       // omitted but shown later 
       // what order to apply functions in
+      sortFn: (a, b) => {
+        return a.displayName.localeCompare(b.displayName)
+      },
       order: ["filter", "map", "sort"],
     })
   ],

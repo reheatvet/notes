@@ -14,7 +14,6 @@ Every original note will be posted on X for shareability and cross-posted here. 
 Further, I would like to deep-dive into certain topics without relying on a specific platform's article functions. In that case I might post a summary on X but redirect users to this blog for further details.
 # My socials
 - 🐦 **X** - https://x.com/ReheatVet
-- 🦋 **Bluesky** - https://bsky.app/profile/reheatvet.bsky.social *(inactive at the moment)*
 - 🤖 **Discord** - roenlond
 
 # Donations

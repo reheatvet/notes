@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "notesfromthedao.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["Private", "template", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
