@@ -33,12 +33,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.RecentNotes({
+    Component.DesktopOnly(Component.RecentNotes({
       title: "latest note",
       limit: 1,
       showTags: false
     }
-    ),
+    )),
     Component.MobileOnly(Component.Spacer()),
     Component.Explorer({
       title: "notes", // title of the explorer component
