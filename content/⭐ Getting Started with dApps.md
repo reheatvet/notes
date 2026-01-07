@@ -21,7 +21,7 @@ Join me as I guide you through ALL dApps of the #VeBetterDAO with the ultimate g
 
 🗳️ **Voting Multiplier Active** (With native app release)
 
-Track your daily steps and get rewarded with $B3TR for every step you take. Their Corgi Gang 2.0 NFTs [^1] has some massive utility with each step being worth up to 200% more, plus you can stake them at WorldofV to earn the WoV Token daily!🐶
+Track your daily steps and get rewarded with $B3TR for every step you take. Their Corgi Gang 2.0 NFTs [^1] have some massive utility with each step being worth up to 200% more, plus you can stake them at WorldofV to earn the WoV Token daily!🐶
 
 While the Corgi Gang 2.0 NFTs offer a nice 200% multiplier, they can be expensive. They have Genesis Cards at a 150% multiplier and VeHashes at a 100% multiplier. If you're feeling especially steppy, their rank 1 Corgi Gang NFTs boost your earnings by 1100% - they do carry a large pricetag, however. Lots of options to decide between!
 
@@ -49,7 +49,7 @@ Vyvo rewards users with B3TR tokens by getting your "Health Index" recorded in a
 
 🗳️ **Voting Multiplier Active**
 
-Restify is a wellness app that rewards you with B3TR for staying off your phone. Start a session, stay focused, and earn. It’s digital detox made simple - helping you reclaim time, build better habits, and get real value for being present. Using other apps than Restify will abort your session.
+Restify is a wellness app that locks your phone* and rewards you with B3TR for staying off of it. Start a session from 15 mins to 4 hours, stay focused, and earn. It’s digital detox made simple - helping you reclaim time, build better habits, and get real value for being present. Using other apps than Restify will abort your session.
 
 > [!important]
 > 
@@ -63,7 +63,7 @@ Restify is a wellness app that rewards you with B3TR for staying off your phone.
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0xecb83100aeb99560b756db29ae6f9b9d95150a285c0d6f13aecf05bb2e97ccaa](https://www.google.com/search?q=https://governance.vebetterdao.org/apps/0xecb83100aeb99560b756db29ae6f9b9d95150a285c0d6f13aecf05bb2e97ccaa)
 
-Similar to Restify, Wattly focuses on your digital wellbeing. It rewards you for reducing screen time on your mobile devices, helping you disconnect to reconnect with the real world while earning rewards. Unlike Restify, Wattly relies on phone screenshots rather than a native app session to verify your downtime.
+Similar to Restify, Wattly focuses on your digital wellbeing. It rewards you for reducing screen time on your mobile devices, helping you disconnect to reconnect with the real world while earning rewards. Unlike Restify, Wattly doesn't lock your phone and relies on phone screenshots rather than a native app session to verify your downtime.
 
 #wattly
 
@@ -125,7 +125,7 @@ Submit a photo of your daily coffee or tea (at a cafe or at home!) and get rewar
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x54ac74eb150845171b72562f7d091cfbd3a20af91f21d26a2e9c5c97341c97c6](https://governance.vebetterdao.org/apps/0x54ac74eb150845171b72562f7d091cfbd3a20af91f21d26a2e9c5c97341c97c6)
 
-Ecomeal rewards plastic-free dining habits. Submit photos of your meals and get rewarded! The more eco friendly ingredients you're using, the higher rewards you will get. Plus, if you submit two times in a day or one meal a day for five days, you will earn bonus B3tr! On top of rewarding your daily meal submissions, they also offer quests and sustainable recipes 😋
+Ecomeal rewards plastic-free dining habits. Submit photos of your meals and get rewarded! The more eco-friendly ingredients you're using, the higher rewards you will get. Plus, if you submit two times in a day or one meal a day for five days, you will earn bonus B3TR! On top of rewarding your daily meal submissions, they also offer quests and sustainable recipes 😋
 
 #ecomeal
 
@@ -183,7 +183,7 @@ Focused on promoting healthy and nutritious food consumption. It rewards users f
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0xa0ec8929ae5cc30449bab1cbc691363807dd6863b2cdddfaf575c70e055978b9](https://www.google.com/search?q=https://governance.vebetterdao.org/apps/0xa0ec8929ae5cc30449bab1cbc691363807dd6863b2cdddfaf575c70e055978b9)
 
-Targets food waste at the source. It rewards users for buying near-expired items, ensuring that perfectly good food gets eaten instead of thrown away.
+Targets food waste at the source. It rewards users for buying near-expired items, ensuring that perfectly good food gets eaten, instead of thrown away.
 
 It uses a multi-step process of analyzing your receipt as well as the expiry date on the item.
 
@@ -203,7 +203,7 @@ It uses a multi-step process of analyzing your receipt as well as the expiry dat
 
 🗳️ **Voting Multiplier Active**
 
-Shop sustainably, get rewarded! By purchasing ecological, vegetables, fruits, vegan or vegetarian items and paying cashless and scanning your grocery receipt you'll earn B3TR. 
+Shop sustainably, get rewarded! By purchasing By purchasing ecological vegetables, fruits, vegan or vegetarian items and paying cashless and scanning your grocery receipt, you'll earn B3TR. 
 
 They also offer store services for affiliate revenue to sites like Amazon and Booking.com where you can earn a cashback on your purchase if routed through them. Gift cards through GronCard are also offered directly within GreenCart. 
 
@@ -243,7 +243,9 @@ Use a reusable bag while shopping and submit a photo of your reusable bag, groce
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x590839c4641c4b5934760f3237da1de3dfd5f38d078d9fecedecf8bc5b572b2b](https://governance.vebetterdao.org/apps/0x590839c4641c4b5934760f3237da1de3dfd5f38d078d9fecedecf8bc5b572b2b)
 
-It's simple and quick - go shopping with a reusable bag, upload a picture of your receipt - make sure it doesn't contain a purchase of a single-use bag - and you'll be rewarded - with JusTote. Something not right with their AI analysis? Request a manual review.
+It’s simple and quick. Go shopping with a reusable bag, upload a picture of your receipt - make sure it doesn’t contain a purchase of a single-use bag - and you'll be rewarded. 
+
+It uses AI reviews but in case it makes mistakes you have the option to request a manual review.
 
 #justote
 
@@ -277,7 +279,7 @@ GronCard converts your B3TR into gift cards at a variety of retailers across mul
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x68c854d0aef9f5517d58d4772395d0ab44d914070fa6ca5a96f2146ca1449248](https://governance.vebetterdao.org/apps/0x68c854d0aef9f5517d58d4772395d0ab44d914070fa6ca5a96f2146ca1449248)
 
-BigBottle has a simple mission: to get users to opt for a bigger bottle than a small one if needed. You earn rewards by scanning receipts and earn more the larger the container.
+BigBottle has a simple mission: to get users to opt for a bigger bottle than a small one, if needed. You earn rewards by scanning receipts and earn more the larger the container.
 
 #bigbottle
 
@@ -327,7 +329,7 @@ Learn more about them here: https://nopaper.medium.com/
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x2e5953bbae7b743fe287d62e3a2d54d250b3e569de1052ebdde7df247a47fc43](https://governance.vebetterdao.org/apps/0x2e5953bbae7b743fe287d62e3a2d54d250b3e569de1052ebdde7df247a47fc43)
 
-Do you own a dog? Does it poop? If you have answered yes to both of these questions, then you need ScoopUp! Snap a pic of your pupper's poopage, clean it up and get rewarded! Their innovative Register your Dog system makes sure verified dog owners get the best possible rewards.
+Do you own a dog? Does it poop? If you have answered yes to both of these questions, then you need ScoopUp! Snap a pic of your pupper's poopage, clean it up and get rewarded! Their innovative 'Register your Dog' system makes sure verified dog owners get the best possible rewards.
 
 > [!important]
 > 
@@ -359,7 +361,7 @@ They have introduced a "skin in the game" system to multiply your rewards. You c
 
 Deposit your plastic bottles or cans in valid deposit machines, snap a picture (a video is not needed!) of the receipt and the deposit machine in the background. Submit it to their dApp. 
 
-Alternatively, users can also submit with a picture of trashes that are categorized into at least two different categories (e.g. plastics and metals).
+Alternatively, users can also submit with a picture of trash that are categorized into at least two different categories (e.g. plastics and metals).
 
 > [!warning] Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT[^1] to submit with 100% rewards.
 
@@ -441,9 +443,9 @@ Turn off the tap! B3TR Smile is dedicated to reducing water usage during your da
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0xf9f69150ff561161465395d5581cf41173877f057cc4323a074e9638e077f37e](https://www.google.com/search?q=https://governance.vebetterdao.org/apps/0xf9f69150ff561161465395d5581cf41173877f057cc4323a074e9638e077f37e)
 
-Get around greener. B3TR TRANSIT rewards you for choosing sustainable transport methods, helping to lower the carbon footprint of your daily commute. Supported modes of transit include buses, electric cars, bicycles, electric scooters, trains, and even walking. 
+Get around, greener! B3TR TRANSIT rewards you for choosing sustainable transport methods, helping to lower the carbon footprint of your daily commute. Supported modes of transit include buses, electric cars, bicycles, electric scooters, trains, and even walking. 
 
-Select your mode of transit, start the trip, travel, and end it, photographing the at set points to confirm your travel.
+Start the trip, travel, and end it - photographing at set points along your journey to confirm your travel.
 
 Supports multiple community NFT projects for increased rewards.
 
@@ -485,7 +487,7 @@ Own the sun! Solarwise install farms of solar panels and sell ownership of the i
 
 Farm 3-4 have also had issues with energy distributors as well as regional storms. Farm 3 is expected to start in March 2026 and Farm 4 in Q1 2026.
 
-In addition to owning NFTs, home-solar owners can now register their own solar panels to the platform to earn rewards with the HomeOwner feature.
+In addition to owning NFTs, at-home solar panel owners can now register their panels to the platform to earn rewards with the HomeOwner feature.
 
 #solarwise
 
@@ -495,7 +497,7 @@ In addition to owning NFTs, home-solar owners can now register their own solar p
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0xca0b325c7d08aa29642c6a82e490c99bac53e5e53dce402faa1ec12b7e382409](https://governance.vebetterdao.org/apps/0xca0b325c7d08aa29642c6a82e490c99bac53e5e53dce402faa1ec12b7e382409)
 
-Carbonlarity combine the Internet of Things with blockchain. By purchasing their smart plugs (with other hardware on the way!) and implementing smarter electricity usage you will earn rewards. Feeling quizzy? Their quizzes and daily checkins also reward B3TR tokens! 🤔
+Carbonlarity combine the Internet of Things with blockchain. By purchasing their smart plugs (with other hardware on the way!) and implementing smarter electricity usage, you will earn rewards. Feeling quizzy? Their quizzes and daily checkins also reward B3TR tokens!
 
 #carbonlarity
 
@@ -507,7 +509,7 @@ Carbonlarity combine the Internet of Things with blockchain. By purchasing their
 
 🗳️ **Voting Multiplier Active**
 
-Run your appliances smarter and get rewarded with $B3TR! Every time you use your dishwasher or washing machine in eco mode, you earn rewards!
+Run your appliances smarter and get rewarded with $B3TR! Every time you use your dishwasher or washing machine on eco mode, you will earn rewards!
 
 > [!warning] Requires verified vet.domain with KYC, a VeChain Node or a VeDucks NFT [^1] to submit with 100% rewards.
 
@@ -566,7 +568,7 @@ By utilizing [SmartCar](https://smartcar.com/), EVearn connects multiple car bra
 
 Plant your carbon! Pause Your Carbon (registered on-chain as Carboneers) allows you to buy carbon years to offset your footprint directly in the soil. It's a tangible way to contribute to carbon sequestration and soil health.
 
-Each week, you can repost on X/Twitter to earn B3tr. Every weekly offset activates a multiplier on #cleanify  as well.
+Each week, you can repost your donation on X/Twitter to earn B3TR. Every weekly offset activates a multiplier on #cleanify  as well.
 
 #pauseyourcarbon
 
@@ -723,7 +725,9 @@ Learn and earn! By completing activities and challenges related to all things en
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x74133534672eca50a67f8b20bf17dd731b70d83f0a12e3500fca0793fca51c7d](https://governance.vebetterdao.org/apps/0x74133534672eca50a67f8b20bf17dd731b70d83f0a12e3500fca0793fca51c7d)
 
-Mint and listen to a Listen to Earn audiobook or a one-time airdrop audiobook from their weekly book releases and claim b3tr!
+The source of audiobooks on VeChain! Mint and listen to an eligible Listen-to-Earn (L2E) audiobook from their weekly releases and claim B3TR. 
+
+Each release has a set amount of unique NFTs with Listen-to-Earn. If it's eligible for L2E, the book will have a golden border around the book cover. When listening, you will periodically hear a chime and see the VeBetterDAO icon be illuminated. Check it to redeem the B3TR. The intervals are randomized.
 
 #nfbc
 
