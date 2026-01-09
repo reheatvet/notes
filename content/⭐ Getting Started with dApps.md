@@ -6,7 +6,8 @@ Join me as I guide you through ALL dApps of the #VeBetterDAO with the ultimate g
 > 
 > Many dApps have integrated a "Voting Multiplier" system. This means that if you voted with your VOT3 tokens in the previous funding round, you will earn a multiplier on your rewards in these apps.
 > 
-> - **How it works:** The multiplier and the amount of VOT3 required varies by app. Some simply check if you voted at all, while others have tiered thresholds.
+> - **How it works:** The multiplier and the amount of VOT3 required varies by app. Some simply check if you voted at all, while others have tiered thresholds. 
+> 	- Most apps support both normal voting through VeBetterDAO as well as veDelegate voting *(including in-app staking in dApps and Lock2Earn terms)* - see [[🚀 The Voter's Guide to the Galaxy]]
 >     
 > - **Who to vote for:** Generally, it does **not** matter which app you voted for. You just need to have participated in governance.
 >     
@@ -49,7 +50,7 @@ Vyvo rewards users with B3TR tokens by getting your "Health Index" recorded in a
 
 🗳️ **Voting Multiplier Active**
 
-Restify is a wellness app that locks your phone* and rewards you with B3TR for staying off of it. Start a session from 15 mins to 4 hours, stay focused, and earn. It’s digital detox made simple - helping you reclaim time, build better habits, and get real value for being present. Using other apps than Restify will abort your session.
+Restify is a wellness app that locks your phone and rewards you with B3TR for staying off of it. Start a session from 15 mins to 4 hours, stay focused, and earn. It’s digital detox made simple - helping you reclaim time, build better habits, and get real value for being present. Using other apps than Restify will abort your session.
 
 > [!important]
 > 
@@ -125,7 +126,9 @@ Submit a photo of your daily coffee or tea (at a cafe or at home!) and get rewar
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x54ac74eb150845171b72562f7d091cfbd3a20af91f21d26a2e9c5c97341c97c6](https://governance.vebetterdao.org/apps/0x54ac74eb150845171b72562f7d091cfbd3a20af91f21d26a2e9c5c97341c97c6)
 
-Ecomeal rewards plastic-free dining habits. Submit photos of your meals and get rewarded! The more eco-friendly ingredients you're using, the higher rewards you will get. Plus, if you submit two times in a day or one meal a day for five days, you will earn bonus B3TR! On top of rewarding your daily meal submissions, they also offer quests and sustainable recipes 😋
+Ecomeal rewards plastic-free dining habits. Submit photos of your meals and get rewarded! The more eco-friendly ingredients you're using, the higher rewards you will get. They offer competitions like "Country League" where countries compete for the most sustainable meals, daily quests, streak quests and more. 
+
+In addition, they offer an innovative "Review2Earn" system where users are randomly given up to 20 meals a day to review for authenticity. AI selects images to review - no wallet shown, no option to skip - just the images to review. Valid reviews are rewarded with B3TR tokens.
 
 #ecomeal
 
@@ -203,7 +206,7 @@ It uses a multi-step process of analyzing your receipt as well as the expiry dat
 
 🗳️ **Voting Multiplier Active**
 
-Shop sustainably, get rewarded! By purchasing By purchasing ecological vegetables, fruits, vegan or vegetarian items and paying cashless and scanning your grocery receipt, you'll earn B3TR. 
+Shop sustainably, get rewarded! By purchasing ecological vegetables, fruits, vegan or vegetarian items and paying cashless and scanning your grocery receipt, you'll earn B3TR. 
 
 They also offer store services for affiliate revenue to sites like Amazon and Booking.com where you can earn a cashback on your purchase if routed through them. Gift cards through GronCard are also offered directly within GreenCart. 
 
@@ -315,7 +318,27 @@ Features a passport system for enhanced security.
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0xe682efaffb7c642f66a2ce77886c183aa5eeb9b73f7d877de7054efff1972196](https://governance.vebetterdao.org/apps/0xe682efaffb7c642f66a2ce77886c183aa5eeb9b73f7d877de7054efff1972196)
 
-NoPaper replaces paper receipts with verified digital receipts, reducing paper waste and enabling transparent proof-of-purchase for sustainability use cases.
+🗳️ **Voting Multiplier Active**
+
+NoPaper accepts digital receipts and scans them for validity, earning you B3TR rewards. They accept: 
+
+- Digital screenshots of grocery receipts
+- E-receipts from sustainable stores
+- Proof of organic/eco-friendly purchases
+
+Your base reward depends on:
+
+1. **Wallet Trust Level** (based on wallet age)
+2. **Receipt Quality** (items purchased)
+3. **Environmental Impact** (sustainability score)
+
+Each submission is checked for duplicate receipts, time validity, and merchant/transaction consistency. Rewards are issued only after verification (manual review during the early phase, with an upgrade path to automated rules).
+
+> [!NOTE]
+> A staggering 30% of their weekly allocation goes to their endorsers. Node holders are supposed to review submissions, approve or reject them, and maintain network security and credibility. 
+> 
+> If they do not review submissions, AI takes over after 4 hours. Time will tell if node holders endorse for 30% of their allocation or to work with the app.
+
 
 Learn more about them here: https://nopaper.medium.com/
 
@@ -693,7 +716,26 @@ Redeno is a DeFi application specifically focused on VET staking, providing user
 
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0x5ed40c2ee54b2fa8b5f29137c348e6b44797106fad036f7487a6b96397148fd1](https://www.google.com/search?q=https://governance.vebetterdao.org/apps/0x5ed40c2ee54b2fa8b5f29137c348e6b44797106fad036f7487a6b96397148fd1)
 
-VeTrade is a decentralized exchange (DEX) that features limit orders, allowing you to set specific prices for buying or selling tokens rather than just swapping at current market rates.
+VeTrade is a decentralized exchange (DEX) that features limit orders, allowing you to set specific prices for buying or selling tokens rather than just swapping at current market rates. They aggregate liquidity across all DEX pools on VeChain and routes your trade through the most efficient path to maximize your return or minimize slippage.
+
+You earn B3TR rewards by trading on their aggregator. 
+
+Points are earnt differently based on the action: 
+- Regular Swap: **1x** points
+- Limit Order: **1.5x** points
+- Swap to B3TR: **1.75x** points
+- Limit Order to B3TR: **2x** points
+
+Points reset weekly and rewards are distributed based on your standing in the leaderboard:
+- 1st Place: **10%** of total rewards
+- 2nd Place: **5%** of total rewards
+- 3rd Place: **3%** of total rewards
+- 4th-10th Place: **2%** of total rewards each
+- Remaining **68%**: Distributed proportionally based on points (max 1% per user)
+
+> [!warning] Important
+> Rewards must be claimed manually within **two** VeBetterDAO rounds. 
+> Unclaimed rewards will flow back into the next round's distribution.
 
 #vetrade
 
@@ -704,6 +746,8 @@ VeTrade is a decentralized exchange (DEX) that features limit orders, allowing y
 🏛️ **VeBetterDAO page:** [https://governance.vebetterdao.org/apps/0xf4ca10817a1ced66f9c89e82799c4451649606ed04366c4559b819a2d11d11a7](https://www.google.com/search?q=https://governance.vebetterdao.org/apps/0xf4ca10817a1ced66f9c89e82799c4451649606ed04366c4559b819a2d11d11a7)
 
 Wanchain facilitates interoperability as a DeFi bridge, allowing you to move assets seamlessly between different blockchains and the VeChain ecosystem.
+
+Their Bridge-to-Earn rewards users for bridging assets to VeChain - enabling ecosystem support without locking funds. Tasks span various assets and blockchains, with rewards often in B3TR, BTC, ETH, USDC, USDT, VET, or xWAN. Users claim tasks by spending earned XP or burning WAN.
 
 #wanchain
 
