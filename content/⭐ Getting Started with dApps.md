@@ -9,7 +9,7 @@ Join me as I guide you through ALL dApps of the #VeBetterDAO with the ultimate g
 > - **How it works:** The multiplier and the amount of VOT3 required varies by app. Some simply check if you voted at all, while others have tiered thresholds. 
 > 	- Most apps support both normal voting through VeBetterDAO as well as veDelegate voting *(including in-app staking in dApps and Lock2Earn terms)* - see [[🚀 The Voter's Guide to the Galaxy]]
 >     
-> - **Who to vote for:** Generally, it does **not** matter whicNh app you voted for. You just need to have participated in governance.
+> - **Who to vote for:** Generally, it does **not** matter which app you voted for. You just need to have participated in governance.
 >     
 > 
 > Look for the 🗳️ **Voting Multiplier Active** tag on the apps below!
