@@ -3,3 +3,7 @@
 :root[saved-theme=light] {
     --light: white;
 }
+
+.table-container {
+    overflow-x: inherit !important;
+}
