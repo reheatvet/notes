@@ -16,28 +16,26 @@ enableToc: 0
 
 <div style="background: #f8fafc; border-left: 5px solid #9333ea; padding: 24px; border-radius: 16px; margin-bottom: 40px; border: 1px solid #e2e8f0;">
     <div style="font-weight: 900; margin-bottom: 20px; font-size: 1.2em; color: #0f172a;">Performance Tags & KPI Definitions</div>
-    <table width="100%" style="border:none; border-collapse: collapse;">
-        <tr>
-            <td width="33%" style="border:none; vertical-align: top; padding-right: 20px;">
-                <div style="margin-bottom: 6px;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">GROWTH</span></div>
-                <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Ecosystem Growth</strong>: Apps bringing ≥20 new accounts into the DAO over the last 4 rounds.</div>
-                <div style="margin: 16px 0 6px 0;"><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span></div>
-                <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>App Discovery</strong>: Existing DAO users using this app for the first time (Target: ≥30).</div>
-            </td>
-            <td width="33%" style="border:none; vertical-align: top; padding: 0 20px; border-left: 1px solid #e2e8f0;">
-                <div style="margin-bottom: 6px;"><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-                <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Account Retention</strong>: Apps with a loyal core audience (Target: ≥70% round-over-round return rate).</div>
-                <div style="margin: 16px 0 6px 0;"><span style="background: #d97706; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">HUB</span></div>
-                <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Ecosystem Synergy</strong>: Percentage of new users who explored other DAO apps (Target: ≥40%).</div>
-            </td>
-            <td width="33%" style="border:none; vertical-align: top; padding-left: 20px; border-left: 1px solid #e2e8f0;">
-                <div style="margin-bottom: 6px;"><span style="background: #0d9488; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISTRO</span></div>
-                <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Reward Utilization</strong>: Total B3TR distributed vs. total allocation received (Target: ≥70%).</div>
-                <div style="margin: 16px 0 6px 0;"><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">SIGNAL</span></div>
-                <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Bot Signaling</strong>: Active fraud prevention via community signaling (Target: ≥16 writes/resets).</div>
-            </td>
-        </tr>
-    </table>
+    <div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between;">
+        <div style="flex: 1; min-width: 280px; margin-bottom: 20px;">
+            <div style="margin-bottom: 6px;"><span style="display: inline-block; background: #22c55e; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-weight: 900; font-size: 0.75em; letter-spacing: 1px; text-transform: uppercase;">GROWTH</span></div>
+            <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Ecosystem Growth</strong>: Apps bringing ≥20 new accounts into the DAO over the last 4 rounds.</div>
+            <div style="margin: 16px 0 6px 0;"><span style="display: inline-block; background: #3b82f6; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-weight: 900; font-size: 0.75em; letter-spacing: 1px; text-transform: uppercase;">DISCO</span></div>
+            <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>App Discovery</strong>: Existing DAO users using this app for the first time (Target: ≥30).</div>
+        </div>
+        <div style="flex: 1; min-width: 280px; margin-bottom: 20px; ">
+            <div style="margin-bottom: 6px;"><span style="display: inline-block; background: #9333ea; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-weight: 900; font-size: 0.75em; letter-spacing: 1px; text-transform: uppercase;">STICKY</span></div>
+            <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Account Retention</strong>: Apps with a loyal core audience (Target: ≥70% round-over-round return rate).</div>
+            <div style="margin: 16px 0 6px 0;"><span style="display: inline-block; background: #f59e0b; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-weight: 900; font-size: 0.75em; letter-spacing: 1px; text-transform: uppercase;">HUB</span></div>
+            <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Ecosystem Synergy</strong>: Percentage of new users who explored other DAO apps (Target: ≥40%).</div>
+        </div>
+        <div style="flex: 1; min-width: 280px; margin-bottom: 20px; ">
+            <div style="margin-bottom: 6px;"><span style="display: inline-block; background: #14b8a6; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-weight: 900; font-size: 0.75em; letter-spacing: 1px; text-transform: uppercase;">DISTRO</span></div>
+            <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Reward Utilization</strong>: Total B3TR distributed vs. total allocation received (Target: ≥70%).</div>
+            <div style="margin: 16px 0 6px 0;"><span style="display: inline-block; background: #3b82f6; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-weight: 900; font-size: 0.75em; letter-spacing: 1px; text-transform: uppercase;">SIGNAL</span></div>
+            <div style="font-size: 0.85em; line-height: 1.5; color: #0f172a;"><strong>Bot Signaling</strong>: Active fraud prevention via community signaling (Target: ≥16 writes/resets).</div>
+        </div>
+    </div>
 </div>
 
 ## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik05IDExbDMgM0wyMiA0Ii8+PHBhdGggZD0iTTIxIDEydjdhMiAyIDAgMDEtMiAySDVhMiAyIDAgMDEtMi0yVjVhMiAyIDAgMDEyLTJoMTEiLz48L3N2Zz4=" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" /> Reheat's Allocation & Notes
@@ -50,20 +48,18 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifdyzw4l2fw5rtjkqttf24ouhuij73ma3qbl6cm66b6nqk73v52jm/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">ST3PR</h3>
     </div>
     <div><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">GROWTH</span><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span><span style="background: #d97706; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">HUB</span><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">SIGNAL</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifdyzw4l2fw5rtjkqttf24ouhuij73ma3qbl6cm66b6nqk73v52jm/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -81,12 +77,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic576eb5tsxfjfhtnhk6wuuxbjithdjl3eowacechgaxuufkjufeu" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic576eb5tsxfjfhtnhk6wuuxbjithdjl3eowacechgaxuufkjufeu" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">113<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲22</span></td></tr>
@@ -96,29 +91,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">58%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲1%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">315<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiba5indzqri4grlcsmqw5pcuq2d4rutzel6x6j3r6lxwjadxq27iq/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">HangnDry</h3>
     </div>
     <div><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiba5indzqri4grlcsmqw5pcuq2d4rutzel6x6j3r6lxwjadxq27iq/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -136,12 +128,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreigmkioemqrbgp26e7yjqlr7ypiyfbaomfeavcximwyk2qy4tpv4z4" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreigmkioemqrbgp26e7yjqlr7ypiyfbaomfeavcximwyk2qy4tpv4z4" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
@@ -151,29 +142,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">55%<span style="color: #dc2626; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▼2%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibfobt7zqtbojcfh4acx3cxye76n4qyw7qfik65bjwe4tizwa74nu/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">Avoco</h3>
     </div>
     <div><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span><span style="background: #0d9488; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISTRO</span><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">SIGNAL</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibfobt7zqtbojcfh4acx3cxye76n4qyw7qfik65bjwe4tizwa74nu/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -191,12 +179,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreiamli3ain3vslt3ng2v3z2umoql6xdl6qcy7tmnkaeuej2murxqp4" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreiamli3ain3vslt3ng2v3z2umoql6xdl6qcy7tmnkaeuej2murxqp4" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
@@ -206,29 +193,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">100%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲8%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">20<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiee4xbn3o7alcwz6mdemrbfxfuta5yyafdwfryqtwjicbbboqtbay/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">ScoopUp</h3>
     </div>
     <div><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiee4xbn3o7alcwz6mdemrbfxfuta5yyafdwfryqtwjicbbboqtbay/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -246,12 +230,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreibw7r434cnukgil6f7re4bmvzdueffdk6rizmh45qufit23asxy7m" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreibw7r434cnukgil6f7re4bmvzdueffdk6rizmh45qufit23asxy7m" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">2<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲1</span></td></tr>
@@ -261,29 +244,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">45%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲4%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidrjjku75bhex5hrttigncjenpfvaibixurrckgq7hmeewkgy6sby/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">B3DTIME</h3>
     </div>
     <div><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidrjjku75bhex5hrttigncjenpfvaibixurrckgq7hmeewkgy6sby/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -301,12 +281,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic2h5fiwautlq3ragkimugz36n5iqkjc5qozk5eojx5xqbmgax72m" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic2h5fiwautlq3ragkimugz36n5iqkjc5qozk5eojx5xqbmgax72m" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">1<span style="color: #dc2626; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▼1</span></td></tr>
@@ -316,29 +295,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">58%<span style="color: #dc2626; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▼1%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiglrnb5prw6gwfwkc6heqzztgvmfvoukljv3owqcmfnd2lkb7yswi/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">Bikademy</h3>
     </div>
     <div><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">GROWTH</span><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiglrnb5prw6gwfwkc6heqzztgvmfvoukljv3owqcmfnd2lkb7yswi/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -356,12 +332,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreid3shx74v46xaro2ep2uymrgysmtwnqe4pbydxh536vn74zkg7bsq" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreid3shx74v46xaro2ep2uymrgysmtwnqe4pbydxh536vn74zkg7bsq" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">66<span style="color: #dc2626; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▼35</span></td></tr>
@@ -371,29 +346,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">60%<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigefrhcdoj4ul6zgpepzj2igej6g2nus7e2ys3a2v3cpb5nny74ry/media/logo.jpeg" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">Green Ambassador Challenge</h3>
     </div>
     <div><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">GROWTH</span><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span><span style="background: #0d9488; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISTRO</span><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">SIGNAL</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigefrhcdoj4ul6zgpepzj2igej6g2nus7e2ys3a2v3cpb5nny74ry/media/banner.jpeg" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -411,12 +383,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic5mfljdytrij6j6qgjjm67c3cgldebgjzji56fajqnebvwhvi5ue" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic5mfljdytrij6j6qgjjm67c3cgldebgjzji56fajqnebvwhvi5ue" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">559<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲5</span></td></tr>
@@ -426,29 +397,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">85%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲15%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">88<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiahjihc34rcet7qfuna7q2dznexomyjoremvxcd5r6fiqc35cbz7y/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">Dappies</h3>
     </div>
     <div></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiahjihc34rcet7qfuna7q2dznexomyjoremvxcd5r6fiqc35cbz7y/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -466,12 +434,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreidfokcsabmy4shedj4j7eg4svfo6yp2xkehcql5mvuuymxpuochhi" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreidfokcsabmy4shedj4j7eg4svfo6yp2xkehcql5mvuuymxpuochhi" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">4<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲4</span></td></tr>
@@ -481,29 +448,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">3%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲3%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigbapztzdsvfwa5jsci2d6ukcqyidlklbojxwbbe6uhmnrn6urnyq/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">A ZeLoop Spotter</h3>
     </div>
     <div><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigbapztzdsvfwa5jsci2d6ukcqyidlklbojxwbbe6uhmnrn6urnyq/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -521,12 +485,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreih7zesoffx64mtfmcmdpqtlqic6btcc62o2jrwjezbgti7wiigkn4" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreih7zesoffx64mtfmcmdpqtlqic6btcc62o2jrwjezbgti7wiigkn4" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">3<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲3</span></td></tr>
@@ -536,29 +499,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">25%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲9%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">1<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigyjqn34jytzwv3lhdhyin4uyy6oplii4hlsjq7pmq4otf2tliusm/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">NFBC</h3>
     </div>
     <div><span style="background: #0d9488; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISTRO</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigyjqn34jytzwv3lhdhyin4uyy6oplii4hlsjq7pmq4otf2tliusm/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -577,12 +537,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreif3nxeooph62qk26jmd62g25cfzy2l5ogu4dfsbvfmj3i7rvwl2me" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreif3nxeooph62qk26jmd62g25cfzy2l5ogu4dfsbvfmj3i7rvwl2me" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
@@ -592,29 +551,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">127%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲6%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihmj2ciqi6y5igpprghyvm2xk24qi53ikxatgn5lrowuuuit6u23e/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">Arbor</h3>
     </div>
     <div><span style="background: #2563eb; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">DISCO</span><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihmj2ciqi6y5igpprghyvm2xk24qi53ikxatgn5lrowuuuit6u23e/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -632,12 +588,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic7bsgeeuqzhwj6qrtwwt7ukekja2lusy7d7xg5y2bouuuvyz47oi" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreic7bsgeeuqzhwj6qrtwwt7ukekja2lusy7d7xg5y2bouuuvyz47oi" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">2<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲2</span></td></tr>
@@ -647,29 +602,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">68%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲7%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibikcgyxh5lbrhaiy6gwlarkatlkcywdajuyyuptbnenhobvkinxe/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">Sproutly</h3>
     </div>
     <div><span style="background: #9333ea; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">STICKY</span></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibikcgyxh5lbrhaiy6gwlarkatlkcywdajuyyuptbnenhobvkinxe/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -687,12 +639,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreiaw5hvt2pao62jkv3tm4yqpnbfvou7sne3lmj72xcjst3ce4eelza" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreiaw5hvt2pao62jkv3tm4yqpnbfvou7sne3lmj72xcjst3ce4eelza" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">4<span style="color: #dc2626; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▼1</span></td></tr>
@@ -702,29 +653,26 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">61%<span style="color: #16a34a; font-size: 1.1em; font-weight: 900; margin-left: 4px;">▲1%</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
 ---
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 32px; margin-bottom: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.01);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="55%" style="border:none; vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 1; min-width: 300px;">
     <div style="display: flex; align-items: center; margin-bottom: 12px;">
         <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeih67xrxhqgfsl4t5zjy6dhy7ra3zkozelzdifb42dgzoedeq4d5du/media/logo.png" width="64" height="64" style="border-radius: 16px; margin-right: 20px;" />
         <h3 style="margin: 0; font-size: 2em; color: #0f172a; font-weight: 900;">ReCircle</h3>
     </div>
     <div></div>
-</td>
-<td width="45%" style="border:none; vertical-align: middle; text-align: right; padding-left: 24px;">
+</div>
+<div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeih67xrxhqgfsl4t5zjy6dhy7ra3zkozelzdifb42dgzoedeq4d5du/media/banner.png" width="100%" style="border-radius: 20px; object-fit: cover; max-height: 140px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" />
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 <div style="margin-bottom: 32px; padding: 0 8px;">
@@ -742,12 +690,11 @@ enableToc: 0
 </div>
 
 <div style="background: #fcfcfc; border: 1px solid #e2e8f0; border-radius: 24px; padding: 28px; margin-bottom: 60px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="40%" style="border:none; vertical-align: middle; padding-right: 30px;">
-    <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreidw3uujwlg5iopqqnw3nzf6rf4zpldgafb7t2tca4vonujaz6vygm" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%" style="border:none; vertical-align: top;">
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: center;">
+        <div style="flex: 1; min-width: 280px; text-align: center;">
+            <img src="https://api.gateway-proxy.vechain.org/ipfs/bafkreidw3uujwlg5iopqqnw3nzf6rf4zpldgafb7t2tca4vonujaz6vygm" width="100%" style="border-radius: 12px;" />
+        </div>
+        <div style="flex: 1.5; min-width: 300px;">
     <div style="font-weight: 900; font-size: 0.85em; color: #334155; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 12px;">4-Round Performance KPIs</div>
     <table width="100%" style="border:none; border-collapse: collapse;">
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Ecosystem Growth</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">2<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
@@ -757,9 +704,8 @@ enableToc: 0
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDk0ODgiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAxdjIyTTE3IDVIOS41YTMuNSAzLjUgMCAwMDAgN2g1YTMuNSAzLjUgMCAwMTAgN0g2Ii8+PC9zdmc+" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Reward Utilization</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0%<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
         <tr><td width="32" style="border:none; padding: 8px 0;"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiLz48L3N2Zz4=" width="18" height="18" /></td><td style="border:none; font-size: 0.95em; color: #334155; padding: 8px 0;">Bot Signaling</td><td style="border:none; text-align: right; font-weight: 900; color: #0f172a; padding: 8px 0;">0<span style="color: #334155; opacity: 0.4;">(--)</span></td></tr>
     </table>
-</td>
-</tr>
-</table>
+</div>
+</div>
 </div>
 
 
@@ -772,7 +718,7 @@ enableToc: 0
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMyNTYzZWIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xOCAyMFYxME0xMiAyMFY0TTYgMjB2LTYiLz48L3N2Zz4=" width="20" height="20" style="vertical-align: middle; margin-right: 8px;" /> Ecosystem Funding Dominance
 *This leaderboard shows the total B3TR funding captured by applications in the ecosystem (Voting Allocations + Dynamic Base Allocation), and where my votes landed on this leaderboard.*
 
-<table width="100%" style="border-collapse: collapse; font-size: 0.95em;"><thead><tr style="background: #ffffff; text-align: left;"><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px; width: 50px;">Rank</th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Application</th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; text-align: right; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Total (B3TR)</th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; text-align: right; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Dyn. Base Alloc.</th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; text-align: center; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Status</th></tr></thead><tbody><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">1</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeickkkcdn6bqj3pmjeubahzdzfmuhftic2so2tlxgiwhd5u5setlgi/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Mugshot</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">263 170</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (1%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">2</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifr5i456shuk7ggs4pyvcj5riydazdocop576xyddtbtckzhnhmhu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Greencart</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">263 170</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (1%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">3</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeid5tvrsa3ut7jcz2trypbsalsgyp4icleoikujlzxjdzbshbpfgue/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">veDelegate</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">198 822</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (2%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">4</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifdyzw4l2fw5rtjkqttf24ouhuij73ma3qbl6cm66b6nqk73v52jm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">ST3PR</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">152 220</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (2%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">5</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiba5indzqri4grlcsmqw5pcuq2d4rutzel6x6j3r6lxwjadxq27iq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">HangnDry</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">100 424</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (3%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">6</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeicvr6ivkwv2iygkgcijbmjaorfyi4gui2bjskhwuitop7n3tqo24m/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Cleanify</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">74 599</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (5%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">7</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeif7u34nfiz2wlmgemym25wt4tlxxa6fngspgsj2lz3dnt4aeijfy4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Evearn</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">65 509</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (5%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">8</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeia5bbz56ewq2vnncgpi7dardhcky6ln5k47ctoe6z4zc25igtv44i/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">SolarWise</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">34 057</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (10%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">9</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeicb6ozqlwlsfmhv75grai3ca5oibzqdqdqayvr4dex3dombyw2laq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Bubbles</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">26 843</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (13%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">10</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihm43zvhvrj2mi2dpck2h4qdbjx7hotecpo4s4hbofvdkiijuq5rm/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BetterMode</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">18 475</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (19%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">11</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiaxxscib4hgm2t3m32faknk4hf6goi5uk73tzvizvi4w7yudabuee/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BetterBag</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">15 445</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (22%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">12</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiboy2cbhlsnbor3uschzgfzjetkofp5mvxw3ny2tsq3w5tlrzi77m/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">EcoMeal</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">14 868</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (23%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">13</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidhdp6d4jcnm7ss5dhsnubzznfecwndmeyb37hz6tzqfklhivggdq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">VeRecycle</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 415</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (28%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">14</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidrjjku75bhex5hrttigncjenpfvaibixurrckgq7hmeewkgy6sby/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">B3DTIME</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 126</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (29%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">15</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifqy6ojar5aryglbbpvsm7pqz4tn76ruf5nh4vwsb4lc6um5ehvfi/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BetterSwap</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 126</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (29%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">16</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigtlombd3jplbq33k2m2p5cbrbniznv4fnr3bbh2hxxackh5bpcqy/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">VeLottery</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 126</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (29%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">17</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeicjklidprz3wjnjrj7yintcrhdkp5ds6jzlpkl3zkfnnl2dcdydri/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BYB - Build Your Body</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">10 828</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (32%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">18</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiaouyym4sgv47wzzax7gskyc5h3hdzk7wdn5er7ftgv2v56dv5vym/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">JusTote</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">10 106</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (34%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">19</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiee4xbn3o7alcwz6mdemrbfxfuta5yyafdwfryqtwjicbbboqtbay/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">ScoopUp</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">10 106</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (34%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">20</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigracia3hxutcga5tvocgjh22m5m6ippyjcnevt5aswfcbzthm7w4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">ecobag</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">9 674</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (36%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">21</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibfobt7zqtbojcfh4acx3cxye76n4qyw7qfik65bjwe4tizwa74nu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Avoco</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">9 241</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (38%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">22</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeignjcyln4ywzhkyupheorocyvqqudjvjjaz6jclpcayzt7h3vfhpu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Eat Up</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">8 664</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (40%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">23</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigefrhcdoj4ul6zgpepzj2igej6g2nus7e2ys3a2v3cpb5nny74ry/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Green Ambassador Challenge</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">7 798</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (44%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">24</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigmscfg4dyy4vkrrk5ubvpc6b7pz5ykdikgqushaxnspy5f2qjxwq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">World of V - Green NFT Marketplace</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">7 798</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (44%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">25</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiawsjrlgexaua62er3qhyxxklr4qoppoq3fkzlbk3zchv773w7yw4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">GronCard</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">6 355</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (55%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">26</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeie4dwbthmi4mj4fquzdz5jvfq3ncmjlasjxpudc42dkjjpeqm5hqy/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Juicy Finance</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">6 211</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (56%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">27</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigyjqn34jytzwv3lhdhyin4uyy6oplii4hlsjq7pmq4otf2tliusm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">NFBC</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">5 634</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (62%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">28</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidicjngot2t7xnxkv26pjmk7jagpptiavslrdcj4lp6wvdnzaar6y/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Turtle Labs</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">5 634</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (62%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">29</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihmj2ciqi6y5igpprghyvm2xk24qi53ikxatgn5lrowuuuit6u23e/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Arbor</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">5 345</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 470 (65%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">30</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihgqfn2fjdjg5pcfdygwbhl5e56vmkvj6rm3dzw4fqfxz6v5njf2u/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">VeTrade</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">4 761</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">3 174 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">31</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidqlqjsnupq7scxd7lcof4e6j536jxuiq7e5zhsa4t3qgxm27qlg4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Plant To Earn</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">3 463</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">2 308 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">32</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiglrnb5prw6gwfwkc6heqzztgvmfvoukljv3owqcmfnd2lkb7yswi/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Bikademy</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">3 463</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">2 308 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">33</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihmwfocqkarxot7q6vpdfo7rjptgpq6hj2qxanxt6bo2dgdsrsvxu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">B3TR Smile</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">3 030</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">2 020 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">34</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibikcgyxh5lbrhaiy6gwlarkatlkcywdajuyyuptbnenhobvkinxe/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Sproutly</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">2 597</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">1 731 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">35</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidwuaxcaccwua44zklxav5k5fo2vevniaxoml7h2pq24dtvrjcagm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">NanoAct</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">2 164</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">1 443 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">36</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibppowazkkdfbz5pwx726pgg46rpmihonyhx2zttoiqtvos2wleo4/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Pause Your Carbon</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">2 164</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">1 443 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">37</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidc4qtuzcgj5k4wvph27tgijwhzf2pwh2yy75jyk4efypnvp7hkuu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Wattly</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 731</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">1 154 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">38</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigbapztzdsvfwa5jsci2d6ukcqyidlklbojxwbbe6uhmnrn6urnyq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">A ZeLoop Spotter</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 731</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">1 154 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">39</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeieim4pc4ujnmb2ohh5umy4uubyg4rakoerb2yank4x7l534nwlpfy/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BigBottle</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 299</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">866 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">40</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiahjihc34rcet7qfuna7q2dznexomyjoremvxcd5r6fiqc35cbz7y/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Dappies</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 299</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">866 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">41</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihqv2xeyaoki2dlk24gstxenmzpg7sa7rkumj7lpky2egcqaiwmzm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Cleanmate</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">433</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-size: 0.85em; color: #334155;">289 (67%)</td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse; font-size: 0.95em;"><thead><tr style="background: #ffffff; text-align: left;"><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px; width: 50px;">Rank</th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Application</th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; text-align: right; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Total Funding <br/><span style="font-size: 0.8em; opacity: 0.5;">(Inc. DBA %)</span></th><th style="padding: 14px; border: 1px solid #e2e8f0; background: #ffffff; text-align: center; color: #0f172a; font-weight: 900; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;">Status</th></tr></thead><tbody><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">1</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeickkkcdn6bqj3pmjeubahzdzfmuhftic2so2tlxgiwhd5u5setlgi/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Mugshot</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">263 170 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 1%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">2</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifr5i456shuk7ggs4pyvcj5riydazdocop576xyddtbtckzhnhmhu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Greencart</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">263 170 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 1%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">3</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeid5tvrsa3ut7jcz2trypbsalsgyp4icleoikujlzxjdzbshbpfgue/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">veDelegate</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">198 822 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 2%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">4</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifdyzw4l2fw5rtjkqttf24ouhuij73ma3qbl6cm66b6nqk73v52jm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">ST3PR</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">152 220 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 2%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">5</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiba5indzqri4grlcsmqw5pcuq2d4rutzel6x6j3r6lxwjadxq27iq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">HangnDry</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">100 424 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 3%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">6</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeicvr6ivkwv2iygkgcijbmjaorfyi4gui2bjskhwuitop7n3tqo24m/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Cleanify</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">74 599 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 5%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">7</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeif7u34nfiz2wlmgemym25wt4tlxxa6fngspgsj2lz3dnt4aeijfy4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Evearn</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">65 509 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 5%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">8</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeia5bbz56ewq2vnncgpi7dardhcky6ln5k47ctoe6z4zc25igtv44i/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">SolarWise</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">34 057 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 10%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">9</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeicb6ozqlwlsfmhv75grai3ca5oibzqdqdqayvr4dex3dombyw2laq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Bubbles</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">26 843 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 13%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">10</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihm43zvhvrj2mi2dpck2h4qdbjx7hotecpo4s4hbofvdkiijuq5rm/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BetterMode</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">18 475 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 19%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">11</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiaxxscib4hgm2t3m32faknk4hf6goi5uk73tzvizvi4w7yudabuee/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BetterBag</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">15 445 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 22%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">12</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiboy2cbhlsnbor3uschzgfzjetkofp5mvxw3ny2tsq3w5tlrzi77m/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">EcoMeal</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">14 868 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 23%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">13</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidhdp6d4jcnm7ss5dhsnubzznfecwndmeyb37hz6tzqfklhivggdq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">VeRecycle</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 415 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 28%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">14</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidrjjku75bhex5hrttigncjenpfvaibixurrckgq7hmeewkgy6sby/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">B3DTIME</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 126 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 29%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">15</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeifqy6ojar5aryglbbpvsm7pqz4tn76ruf5nh4vwsb4lc6um5ehvfi/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BetterSwap</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 126 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 29%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">16</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigtlombd3jplbq33k2m2p5cbrbniznv4fnr3bbh2hxxackh5bpcqy/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">VeLottery</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">12 126 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 29%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">17</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeicjklidprz3wjnjrj7yintcrhdkp5ds6jzlpkl3zkfnnl2dcdydri/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BYB - Build Your Body</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">10 828 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 32%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">18</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiaouyym4sgv47wzzax7gskyc5h3hdzk7wdn5er7ftgv2v56dv5vym/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">JusTote</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">10 106 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 34%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">19</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiee4xbn3o7alcwz6mdemrbfxfuta5yyafdwfryqtwjicbbboqtbay/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">ScoopUp</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">10 106 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 34%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">20</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigracia3hxutcga5tvocgjh22m5m6ippyjcnevt5aswfcbzthm7w4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">ecobag</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">9 674 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 36%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">21</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibfobt7zqtbojcfh4acx3cxye76n4qyw7qfik65bjwe4tizwa74nu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Avoco</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">9 241 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 38%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">22</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeignjcyln4ywzhkyupheorocyvqqudjvjjaz6jclpcayzt7h3vfhpu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Eat Up</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">8 664 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 40%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">23</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigefrhcdoj4ul6zgpepzj2igej6g2nus7e2ys3a2v3cpb5nny74ry/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Green Ambassador Challenge</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">7 798 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 44%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">24</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigmscfg4dyy4vkrrk5ubvpc6b7pz5ykdikgqushaxnspy5f2qjxwq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">World of V - Green NFT Marketplace</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">7 798 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 44%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">25</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiawsjrlgexaua62er3qhyxxklr4qoppoq3fkzlbk3zchv773w7yw4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">GronCard</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">6 355 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 55%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">26</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeie4dwbthmi4mj4fquzdz5jvfq3ncmjlasjxpudc42dkjjpeqm5hqy/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Juicy Finance</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">6 211 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 56%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">27</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigyjqn34jytzwv3lhdhyin4uyy6oplii4hlsjq7pmq4otf2tliusm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">NFBC</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">5 634 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 62%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">28</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidicjngot2t7xnxkv26pjmk7jagpptiavslrdcj4lp6wvdnzaar6y/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Turtle Labs</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">5 634 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 62%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">29</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihmj2ciqi6y5igpprghyvm2xk24qi53ikxatgn5lrowuuuit6u23e/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Arbor</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">5 345 <br/><span style="font-size: 0.85em; color: #334155;">(3 470 • 65%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">30</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihgqfn2fjdjg5pcfdygwbhl5e56vmkvj6rm3dzw4fqfxz6v5njf2u/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">VeTrade</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">4 761 <br/><span style="font-size: 0.85em; color: #334155;">(3 174 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">31</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidqlqjsnupq7scxd7lcof4e6j536jxuiq7e5zhsa4t3qgxm27qlg4/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Plant To Earn</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">3 463 <br/><span style="font-size: 0.85em; color: #334155;">(2 308 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">32</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiglrnb5prw6gwfwkc6heqzztgvmfvoukljv3owqcmfnd2lkb7yswi/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Bikademy</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">3 463 <br/><span style="font-size: 0.85em; color: #334155;">(2 308 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">33</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihmwfocqkarxot7q6vpdfo7rjptgpq6hj2qxanxt6bo2dgdsrsvxu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">B3TR Smile</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">3 030 <br/><span style="font-size: 0.85em; color: #334155;">(2 020 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">34</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibikcgyxh5lbrhaiy6gwlarkatlkcywdajuyyuptbnenhobvkinxe/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Sproutly</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">2 597 <br/><span style="font-size: 0.85em; color: #334155;">(1 731 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">35</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidwuaxcaccwua44zklxav5k5fo2vevniaxoml7h2pq24dtvrjcagm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">NanoAct</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">2 164 <br/><span style="font-size: 0.85em; color: #334155;">(1 443 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f8fafc;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">36</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeibppowazkkdfbz5pwx726pgg46rpmihonyhx2zttoiqtvos2wleo4/media/logo.jpeg" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Pause Your Carbon</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">2 164 <br/><span style="font-size: 0.85em; color: #334155;">(1 443 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">37</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidc4qtuzcgj5k4wvph27tgijwhzf2pwh2yy75jyk4efypnvp7hkuu/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Wattly</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 731 <br/><span style="font-size: 0.85em; color: #334155;">(1 154 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">38</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeigbapztzdsvfwa5jsci2d6ukcqyidlklbojxwbbe6uhmnrn6urnyq/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">A ZeLoop Spotter</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 731 <br/><span style="font-size: 0.85em; color: #334155;">(1 154 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">39</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeieim4pc4ujnmb2ohh5umy4uubyg4rakoerb2yank4x7l534nwlpfy/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">BigBottle</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 299 <br/><span style="font-size: 0.85em; color: #334155;">(866 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr><tr style="background: #f0fdf4;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">40</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeiahjihc34rcet7qfuna7q2dznexomyjoremvxcd5r6fiqc35cbz7y/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Dappies</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">1 299 <br/><span style="font-size: 0.85em; color: #334155;">(866 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"><span style="background: #16a34a; color: #ffffff; padding: 2px 8px; border-radius: 6px; font-size: 0.7em; font-weight: 900; letter-spacing: 0.5px; text-transform: uppercase; margin-right: 4px; vertical-align: middle;">VOTED</span></td></tr><tr style="background: #ffffff;"><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center; color: #334155;">41</td><td style="padding: 12px; border: 1px solid #e2e8f0;"><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeihqv2xeyaoki2dlk24gstxenmzpg7sa7rkumj7lpky2egcqaiwmzm/media/logo.png" width="24" height="24" style="vertical-align: middle; border-radius: 6px; margin-right: 10px;" /> <strong style="color: #0f172a;">Cleanmate</strong></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: right; font-weight: 900; color: #0f172a;">433 <br/><span style="font-size: 0.85em; color: #334155;">(289 • 67%)</span></td><td style="padding: 12px; border: 1px solid #e2e8f0; text-align: center;"></td></tr></tbody></table>
 
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNmEzNGEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE3TDE3IDdNNyA3aDEwdjEwIi8+PC9zdmc+" width="20" height="20" style="vertical-align: middle; margin-right: 8px;" /> Network Expansion (Last 4 Rounds)
 *Measures apps bringing new accounts into VeBetterDAO. Counts accounts whose first-ever action was on this app. Higher averages indicate sustainable ecosystem expansion.*
@@ -832,9 +778,8 @@ enableToc: 0
 *Measures dApp protections. Rewards distributed to accounts **AFTER** they were officially flagged as bots. This highlights where an app ignores ecosystem signals, continuing to reward bad actors already identified by others.*
 > **Methodology Note:** To ensure fairness, we only count rewards distributed **AFTER** the account was officially signaled. If an app rewards a flagged account, it is considered a leak. [Learn more about Bot Signaling](https://docs.vebetterdao.org/vepassport/checks/bot-signaling)
 
-<table width="100%" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="50%" style="border:none; vertical-align: top; padding-right: 12px;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+    <div style="flex: 1; min-width: 300px; vertical-align: top;">
     <div style="font-weight: 900; color: #0f172a; background: #ffffff; padding: 12px 16px; border: 1px solid #e2e8f0; border-radius: 12px 12px 0 0; border-bottom: none; font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px;">Top 5: Total B3TR Leaked</div>
     <div style="margin-bottom: 24px; border: 1px solid #e2e8f0; border-radius: 0 0 12px 12px; border-top: none;">
 <div style="display: flex; align-items: center; padding: 10px 12px; border-bottom: 2px solid #e2e8f0; background: #ffffff; font-weight: 900; color: #334155; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;"><span style="width: 28px;">#</span><span style="flex-grow: 1;">Application</span><span>Leaked</span></div>
@@ -845,8 +790,8 @@ enableToc: 0
 <div style="display: flex; align-items: center; padding: 12px; border-bottom: none; background: #ffffff;"><span style="font-weight: 900; color: #334155; width: 28px;">5</span><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeia5bbz56ewq2vnncgpi7dardhcky6ln5k47ctoe6z4zc25igtv44i/media/logo.png" width="32" height="32" style="vertical-align: middle; border-radius: 8px; margin-right: 14px;" /><span style="flex-grow: 1; font-weight: 700; color: #0f172a;">SolarWise</span><span style="font-weight: 900; color: #0f172a; font-size: 1.1em;">891 B3TR</span></div>
 </div>
 
-</td>
-<td width="50%" style="border:none; vertical-align: top; padding-left: 12px; border-left: 1px solid #e2e8f0;">
+</div>
+    <div style="flex: 1; min-width: 300px; vertical-align: top; border-left: 1px solid #e2e8f0; padding-left: 24px;">
     <div style="font-weight: 900; color: #0f172a; background: #ffffff; padding: 12px 16px; border: 1px solid #e2e8f0; border-radius: 12px 12px 0 0; border-bottom: none; font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px;">Top 5: % of Allocation Leaked</div>
     <div style="margin-bottom: 24px; border: 1px solid #e2e8f0; border-radius: 0 0 12px 12px; border-top: none;">
 <div style="display: flex; align-items: center; padding: 10px 12px; border-bottom: 2px solid #e2e8f0; background: #ffffff; font-weight: 900; color: #334155; text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px;"><span style="width: 28px;">#</span><span style="flex-grow: 1;">Application</span><span>Leak %</span></div>
@@ -857,9 +802,8 @@ enableToc: 0
 <div style="display: flex; align-items: center; padding: 12px; border-bottom: none; background: #ffffff;"><span style="font-weight: 900; color: #334155; width: 28px;">5</span><img src="https://api.gateway-proxy.vechain.org/ipfs/bafybeidwuaxcaccwua44zklxav5k5fo2vevniaxoml7h2pq24dtvrjcagm/media/logo.png" width="32" height="32" style="vertical-align: middle; border-radius: 8px; margin-right: 14px;" /><span style="flex-grow: 1; font-weight: 700; color: #0f172a;">NanoAct</span><span style="font-weight: 900; color: #0f172a; font-size: 1.1em;">1.2%</span></div>
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <details><summary><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xOCAyMFYxME0xMiAyMFY0TTYgMjB2LTYiLz48L3N2Zz4=" width="16" height="16" style="vertical-align: middle; margin-right: 4px;" /> Full Leaderboard: By Total Amount</summary>
 
