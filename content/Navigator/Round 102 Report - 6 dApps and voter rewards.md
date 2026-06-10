@@ -525,7 +525,7 @@ This sample is taken from round 100 votes (rewards claimed in round 101). As rou
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxOWEyIDIgMCAwMS0yIDJINGEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmg1bDIgM2g5YTIgMiAwIDAxMiAyeiIvPjwvc3ZnPg==" width="20" height="20" style="vertical-align: middle; margin-right: 8px;" /> Data Dump
 *The raw (non-aggregated) data for this report, including transaction IDs, can be found in the link below.*
 
-[PASTE_GOOGLE_SHEET_LINK_HERE]
+*Pending, will be added tomorrow 11th of June*
 
 ---
 
