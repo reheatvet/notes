@@ -7,7 +7,9 @@ X frequently buries old posts between quotes, reposts and other 'fluff'. Not to 
 
 Editing posts on X is limited and sorting posts in threads is tedious.
 
-This notebook will serve as a 'vault' where I store, update and save my notes for those interested.
+This notebook will serve as a 'vault' where I store, update and save my notes for those interested. It also hosts weekly/bi-weekly navigator reports as part of my navigator efforts. 
+
+Want to become a citizen with my Navigator? Join here: https://governance.vebetterdao.org/navigators/0x7e64b0b68e2c353641681a5cb16d4c021f2dbac6 
 
 Every original note will be posted on X for shareability and cross-posted here. If needed, the notebook will have additional formatting or links not possible on X.
 
@@ -23,7 +25,7 @@ I want to do my part and help **educate, inform and guide** users, new and old. 
 
 If you despite that want to donate out of  the kindness of your heart to support my efforts, hosting fees, domain registration fees etc., here's my wallet address:
 
-**``patrik.vet``**
+**``reheat.vet``**
 or 
 **``0x7e64b0B68e2C353641681a5cb16d4c021f2dBaC6``**
 
