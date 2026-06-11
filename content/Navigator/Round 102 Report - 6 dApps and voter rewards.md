@@ -187,7 +187,9 @@ Let's jump in!
 <div style="margin-bottom: 32px; padding: 0 8px;">
     <div style="font-weight: 900; text-transform: uppercase; font-size: 0.8em; letter-spacing: 1px; margin-bottom: 12px;">Reheat's Rationale:</div>
     <div style="font-size: 1.1em; line-height: 1.6; font-style: italic; border-left: 4px solid #2563eb; padding-left: 20px; opacity: 0.9;">
-        "Cleanmate has quickly risen to become a great new dApp. They’re active on their Telegram, have great support, the app itself looks good and works well. Fun to see quests from them as well. And they're great signaling users."
+        "Cleanmate has quickly risen to become a great new dApp. They’re active on their Telegram, have great support, the app itself looks good and works well. Fun to see quests from them as well. And they're great signaling users.<br/> <br/>
+	     Finally, they're not relying on user-signed transactions for their rewards and have a pretty short cooldown on submission, making it easy to come back often. 
+        "
     </div>
 </div>
 
@@ -525,7 +527,7 @@ This sample is taken from round 100 votes (rewards claimed in round 101). As rou
 ### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMiAxOWEyIDIgMCAwMS0yIDJINGEyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMmg1bDIgM2g5YTIgMiAwIDAxMiAyeiIvPjwvc3ZnPg==" width="20" height="20" style="vertical-align: middle; margin-right: 8px;" /> Data Dump
 *The raw (non-aggregated) data for this report, including transaction IDs, can be found in the link below.*
 
-*Pending, will be added tomorrow 11th of June*
+[*Raw data*](https://docs.google.com/spreadsheets/d/1ZE2JEl_QUIIHW65FxvO8l2ldsBXSIOlzKywKXzktxpM/edit?usp=sharing)
 
 ---
 
