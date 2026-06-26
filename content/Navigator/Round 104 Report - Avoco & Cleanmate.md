@@ -2,8 +2,6 @@
 enableToc: false
 ---
 ---
-enableToc: false
----
 This week, I decided to highlight two dApps that have shown great progress in recent weeks.
 
 ---
