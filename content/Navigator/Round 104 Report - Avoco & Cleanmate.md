@@ -68,7 +68,7 @@ This week, I decided to highlight two dApps that have shown great progress in re
 <div style="margin-bottom: 32px; padding: 0 8px;">
     <div style="font-weight: 900; text-transform: uppercase; font-size: 0.8em; letter-spacing: 1px; margin-bottom: 12px;">Reheat's Rationale:</div>
     <div style="font-size: 1.1em; line-height: 1.6; font-style: italic; border-left: 4px solid #2563eb; padding-left: 20px; opacity: 0.9;">
-        "Avoco is quickly becoming the best-in-category for nutritional dApps. Now live on the iOS App Store (as well as Android from before), users have an easier time than ever using Avoco.<br/>In addition, they have added recipe tracking for your meals. After scanning, you can save a meal as a recipe, and whatever ingredients their AI picks up on in your meal are automatically filled in."
+        "Avoco is quickly becoming the best-in-category for nutritional dApps. Now live on the iOS App Store (as well as Android from before), users have an easier time than ever using Avoco.<br/><br/>In addition, they have added recipe tracking for your meals. After scanning, you can save a meal as a recipe, and whatever ingredients their AI picks up on in your meal are automatically filled in."
     </div>
 </div>
 
@@ -119,7 +119,7 @@ This week, I decided to highlight two dApps that have shown great progress in re
 <div style="margin-bottom: 32px; padding: 0 8px;">
     <div style="font-weight: 900; text-transform: uppercase; font-size: 0.8em; letter-spacing: 1px; margin-bottom: 12px;">Reheat's Rationale:</div>
     <div style="font-size: 1.1em; line-height: 1.6; font-style: italic; border-left: 4px solid #2563eb; padding-left: 20px; opacity: 0.9;">
-        "In the last report, I gave the suggestion that Cleanmate remove friction and let their AI figure out what type of submission the user is doing. Hours later, it was added. I was really happy to see that. <br/>It seems to function well so far; I am not seeing too many complaints on their Telegram.<br/>Ibrahim continues to have outstanding support with near-instant response times, and their new World Cup betting system is interesting, letting users bet their streaks (actions in Cleanmate) on the results of the games. It is a great community builder.<br/>Impressive work!"
+        "In the last report, I gave the suggestion that Cleanmate remove friction and let their AI figure out what type of submission the user is doing. Hours later, it was added. I was really happy to see that. <br/><br/>It seems to function well so far; I am not seeing too many complaints on their Telegram.<br/><br/>Ibrahim continues to have outstanding support with near-instant response times, and their new World Cup betting system is interesting, letting users bet their streaks (actions in Cleanmate) on the results of the games. It is a great community builder.<br/><br/>Impressive work!"
     </div>
 </div>
 
@@ -154,7 +154,8 @@ This week, I decided to highlight two dApps that have shown great progress in re
 
 # Closing thoughts
 
-I have been abroad for the past two weeks, so I apologize for this report being slightly shorter than usual.
+I have been abroad for the past two weeks, so I apologise for this report being slightly shorter than usual.
+
 See you next report!
 
 ---
